@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311304.xsd">
+<DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>4</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>51</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>12</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2021</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>\n<LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>15122021</D_FILL>
+        <SOFTWARE>CABINET 0.5.0</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S>3000782742</R0301G1S>
+<R0302G1>451</R0302G1>
+<R0302G1S>Екселліо FPU-550ES</R0302G1S>
+<R0303G1S>КМ00004758</R0303G1S>
+<R0304G1>1255</R0304G1>
+<R0304G1S>2.00 UA</R0304G1S>
+<R0307G1S>000859775</R0307G1S>
+<R0401G1S>Відділення №1010112</R0401G1S>
+<R0402G1S>69014, Запорізька обл., місто Запоріжжя, Шевченківський район, ВУЛИЦЯ КАРПЕНКА-КАРОГО, будинок 47</R0402G1S>
+<R0403G1>2310137500</R0403G1>
+<R0403G2>UA12040210080071332</R0403G2>
+<R0404G1S>15800643</R0404G1S>
+<R0501G1>1035</R0501G1>
+<R0501G1S>ГУ ДПС У КИЇВСЬКІЙ ОБЛАСТІ  (М.ФАСТІВ)</R0501G1S>
+<R0601G1S>3000782742р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕГ411014</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>08042022</HFILL>
+</DECLARBODY>
+</DECLAR>

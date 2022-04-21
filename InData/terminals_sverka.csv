@@ -1,0 +1,1815 @@
+Серійний номер; Активність; Адреса; Зовнішній Id; Власник; Шаблон; Версія ПЗ
+11;true;ГОЛОСІЇВСЬКИЙ ПРОСПЕКТ,132, приміщення 38;11;elpaysys;electrum11 (1595425889530);4,0014E+11
+12;true;ГОЛОСІЇВСЬКИЙ ПРОСПЕКТ, 132, приміщення 38;12;elpaysys;electrum11 (1595425889530);400900121
+120;true;Шевченка бульвар 208/1;12000643;citrus;satua;0
+176;true;вул. Маразліївська, будинок 1/20;176;citrus1;satua;0
+302;true;ГОЛОСІЇВСЬКИЙ ПРОСПЕКТ,132, приміщення 38;302;webportal-emoney;satua;0
+303;true;ГОЛОСІЇВСЬКИЙ ПРОСПЕКТ,132, приміщення 38;303;eapteka-emoney;satua;0
+304;true;Шевченко 2;304;unl-emoney;satua;0
+1450001;true;Шевченко 1;1450001;flashpay;satua;0
+10100011;true;Московський проспект 247а;27e30668-0c2c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10100021;true;ВУЛИЦЯ ЄВРОПЕЙСЬКА , будинок 13;5b3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100031;true;вул. Дніпросталівська, 5;d93a6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100041;true;вул.Широка 1а;f53b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100051;true;вул. Велика Васильківська 15/2;71322701-ca82-e511-8f9d-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10100061;true;вул. Чорноморського козацтва 80;a3f0fa22-8c43-e211-b182-00155d037a52;delivery;delivery_moneytransfer;4,0014E+11
+10100071;true;вул. Половка 68;014e35eb-fc2e-e211-9d8a-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100081;true;вул. Шмідта, 202;7b59e6b0-2856-e511-89e5-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10100091;true;Запорозьке шосе, 1;693b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100101;true;вул.Федоренка,10;f1a900ac-5a70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100111;true;Якіра, 131;5f2af375-5d70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100121;true;вул. Ватутіна, 55Б;4eed7cb7-1f6a-e211-81e9-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100131;true;вул. Сагайдачного, 48Д;053b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100141;true;ВОКЗАЛЬНА, будинок 2/8;0b3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100151;true;ПРОСПЕКТ АДМІРАЛА СЕНЯВІНА, будинок 27;e73b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100161;true;вул. Карбишева, 2;b1b71c66-206a-e211-81e9-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100171;true;ПРОВУЛОК РОБІТНИЧИЙ, будинок 5;9cfcfa88-ed7d-e811-816a-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10100181;true;вул. Пирогівський шлях, 135;bdff546c-cb16-e211-89ed-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100191;true;вул. Віскозна, 32;df3dc7af-9017-e211-89ed-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100201;true;Узинська, 5 ;0e1e56a0-bb6b-e211-81e9-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100211;true;вул. Красовського, 16;3a8b2ca7-da49-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100221;true;Українська, 36;c2787a89-1f2b-e611-80eb-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10100231;true;вул. Отто Брозовського, 85;d7e2c6fc-fd2e-e211-9d8a-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100241;true;вул. Гоголя, 582;f33b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100251;true;вул.Шевченка, 153;5aca54b4-f858-e411-afed-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10100261;true;УЛИЦЯ КОЛЬОРОВА, будинок 3;b47173c3-4922-ea11-81b2-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10100271;true;проспект Свободи, 172;a78c2f89-5470-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100281;true;вул. Авангардна, 6/8;753b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100291;true;пл. Перемоги,3;fb2ce03f-5070-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100301;true;вул. Архипа Куїнджі, 5;413b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100311;true;БАЗОВА, будинок 20;5f46b1ad-7f5d-e311-9701-00155d015107;delivery;delivery_moneytransfer;4,0014E+11
+10100321;true;Василя Стуса, 6;3dd9da93-5d70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100331;true;вул. Роганська, 147;efbecb4b-da49-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100341;true;вул. Геологів, 8;ed3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100351;true;вул.Ватутіна,137;2711ddd1-da49-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100361;true;вул. Коломийська, 13Б;f93b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100371;true;вул. Подільська, 38А;7511bc7f-5c70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100381;true;БУЗКОВА, будинок 2;5d3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100391;true;вул. Проектна, 1А;f54909da-5c70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100401;true;вул. 20 липня, 8А;cf3a6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100411;true;вул. Ватутіна, 59;932371d7-4e70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100421;true;вул. Новокостянтинівська, 22/15;668b8259-c82c-e211-9e9c-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100431;true;ВУЛИЦЯ СВЯТОШИНСЬКА, будинок 32;63c5e13d-c92c-e211-9e9c-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100441;true;вул. Бориспільська, 9;0b2e8e62-c92c-e211-9e9c-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100451;true;ВУЛИЦЯ ПОМЕРАНЧУКА, будинок 13-А;89e9918b-5970-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100461;true;вул. Промислова, 5;a6c0a064-4970-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100471;true;вул. Володимира Антоновича, 33;df3a6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100481;true;вул. Краснопільська, 23А;db3a6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100491;true;вул. Лінійна, 15;fba3b059-5c70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100501;true;вул. Базова, 11 (7 км);829fa01a-5970-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100511;true;ВУЛИЦЯ 14-ГО ГРУДНЯ, будинок 6/1;e7d1a773-0d2c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10100521;true;ВУЛИЦЯ ГЕРОЇВ МАЙДАНУ, будинок 8;3d3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100531;true;ІНТЕРКУЛЬТУРНА, будинок 21/1;ade990df-a26b-e211-81e9-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100541;true;вул. Олександра Матросова, 15;64b39293-4599-e311-9640-00155d015107;delivery;delivery_moneytransfer;4,0014E+11
+10100551;true;вул. Мічуріна, 1-А;d908c5e1-b36b-e211-81e9-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100561;true;вул. Поштова 81;4f19ffeb-dd2f-e211-a357-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100571;true;вул. ВЕЛИКА ПАНАСІВСЬКА, 185;ee90da93-f36e-e311-888e-00155d015107;delivery;delivery_moneytransfer;4,0014E+11
+10100581;true;вул. Шевченка 54;055b7fe6-5770-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100591;true;ПІЛОТСЬКА, будинок 77/6;1584818d-1b2b-e611-80eb-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10100601;true;вул. Боярка, 28;9b3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100611;true;вул. Шевченка,52/9;ddacba16-5a70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100621;true;вул. Київська, 98;9d3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100631;true;вул, Єршова, 11;59e8c5e5-5570-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100641;true;ПРИЧАЛЬНА, будинок 5-А;5239181e-cf2c-e211-9e9c-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10100651;true;ВУЛИЦЯ ЧКАЛОВА, будинок 61;0d31c7b2-312b-e611-80eb-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10100661;true;вул. Коноплянська, 12;420798d9-072c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10100671;true;ВУЛИЦЯ ГОРЬКОГО, будинок 67;52c78731-d749-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100681;true;вул. Квітки-Основ`яненко, 5;dd3a6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100691;true;ВУЛИЦЯ ПОТЕБНІ, будинок 71;3539350f-5670-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100701;true;вул, Гагаріна, 33;b93a6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100711;true;ДЕСЯТИННА, будинок 36;0c8b986f-3558-e811-8160-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10100721;true;вул, Правди, 80;bd75fa76-0a49-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100731;true;пров, Севастопольський,2Б;c53fd414-5570-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100741;true;вул, Козача, 56;e24dcf3b-d649-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100751;true;вул, Ткача, 12;ada32e6b-5a70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100761;true;вул, Промислова, 67;49b25f4c-0a2c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10100771;true;вул, 1 Травня, 127;2bb3023d-5670-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100781;true;вул, Соборності, 28/13;0b44d5c2-8ee8-e311-9747-00155d015206;delivery;delivery_moneytransfer;4,0014E+11
+10100791;true;вул. Садовий бульвар, 36А;43d97ea3-5e70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100801;true;вул.Заводська, 2-Н;7d3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10100811;true;вул, Мелітопільська, 83;725a7e55-4e70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100821;true;ВУЛИЦЯ ЛІСОВА, будинок 1;5ac4172d-630f-e511-b3b5-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10100831;true;вул. Бродівська, 44;e1a3e5ae-5c70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100841;true;ВУЛИЦЯ ІТАЛІЙСЬКА, будинок 40;cdd35b01-092c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10100851;true;ВУЛИЦЯ ДРУЖБИ, будинок 2;3c09ccc0-2625-e411-844d-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10100861;true;вул. Жовтнева,174;15cdf73d-5870-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100871;true;вул. Кооперативна,5;2a6ad588-5770-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100881;true;ВУЛИЦЯ Незалежності, будинок 166-А;f34a3484-2045-e611-80ef-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10100891;true;ВОКЗАЛЬНА, будинок 5;73e6b489-11b7-e611-8114-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10100901;true;вул. Індустріальна, 14 А;e97aa605-5d70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100911;true;ВУЛИЦЯ 1-ГО ТРАВНЯ, будинок 34;97c73d84-948e-e511-8e46-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10100921;true;АКАДЕМІКА МОРОЗОВА, будинок 20;664d80b9-5670-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100931;true;ОЛЕКСАНДРА ДОВЖЕНКА, будинок 2-Ж;72be882c-f446-e811-815e-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10100941;true;Подільський р-н., вул. Євгена Маланюка, 11-А;;;;
+;2f3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11;;
+10100951;true;вул. Дружби народів, 5/5;c15ab4da-5e70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10100961;true;БУКАЄВА, будинок 53;f2e88ace-1f41-e711-8134-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10100971;true;вул. Карла Лібкнехта,103;0cb194f9-28e1-e511-80d4-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10100981;true;вул. Істоміна,6;1b2b2e61-ad7f-e411-bf77-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10100991;true;вул. Генерала Корчагіна,2;1bec5a36-5770-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101001;true;вул, Садова,16;e1bcbbea-4f70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101011;true;вул. Строна,1;353b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101021;true;ВУЛИЦЯ КИЇВСЬКА, будинок 18;b1a7d4e0-fa42-e411-b358-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10101031;true;вул. Соборності, 13;9cf8f32d-4a70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101041;true;ПРОВУЛОК ПІЩАНИЙ, будинок 10;5511fdbf-3180-e811-816e-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101051;true;ВУЛИЦЯ ТЕРЕЩЕНКІВ, будинок 55;19b0e937-f6e5-e511-80d6-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10101061;true;ПРОСПЕКТ МИРУ, будинок 109-Б;2d82694b-aa37-e611-80eb-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10101071;true;ВУЛИЦЯ ГОГОЛЯ, будинок 5-А;72a720e5-552c-e511-9ea9-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10101081;true;БОГДАНА ХМЕЛЬНИЦЬКОГО, будинок 61;f13b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101091;true;вул.Європейська, 1;5f3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101101;true;ВУЛИЦЯ ГОЛОВАТОГО, будинок 83;2eec377d-da49-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101111;true;вул. Пирогівський шлях, 135 (транзит);0c51680d-e932-e211-a357-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10101121;true;вул.Карпенка-Карого, 47;d1e5c843-d42f-e211-a357-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10101131;true;СУМСЬКИЙ ШЛЯХ, будинок 158;b535fc21-866a-ea11-81bd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101141;true;ПОЛТАВСЬКЕ ШОСЕ, будинок 157-А;5ddff9af-9772-ea11-81be-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101151;true;Портова, 2;1179d5c6-d9c1-ea11-81cb-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101161;true;ІГОРЯ СЕРДЮКА, будинок 47;0a4b2307-f668-ea11-81bc-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101171;true;ПЕРЕМОГИ, будинок 7;4394b5fa-f168-ea11-81bc-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101181;true;вул.Космічна, 121;24c7dc46-a36b-e211-81e9-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101191;true;ОЛЕКСАНДРА МАТРОСОВА, будинок 20;d2654576-da49-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101201;true;ВОЛОДИМИРА ВЕЛИКОГО, будинок 66-1;f63970ba-9c4a-e211-8b7c-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101211;true;вyлиця Oлeгa Паршутіна, 28;2d3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101221;true;РАДИЩЕВА, будинок 12-16;d21a698a-c92c-e211-9e9c-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10101231;true;ВОЗДВИЖЕНСЬКА, будинок 1-К;98e4457c-a6be-e911-81a3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101241;true;РІВНЕНСЬКА, будинок 76-А;4cc60801-f0d0-e711-814d-000d3a242a2c;delivery;delivery_moneytransfer;4,0014E+11
+10101251;true;МІКРОРАЙОН ШАХТАРСЬКИЙ, будинок 2-Б;e5e6c4e1-c9bd-e411-8f05-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10101261;true;ВОЗНЕСЕНСЬКА, будинок 52-Б;953b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101271;true;ГАЛИЦЬКА, будинок 86;26b96dcd-53fa-e911-81ae-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101281;true;КНЯЗЯ ВАСИЛЬКА, будинок 107;7ee2b2a0-472c-e811-8158-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101291;true;МОТОРНА, будинок 8/К1;785d2711-c26d-ea11-81bd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101301;true;Юрія Коваленка, 19;cd94dfbe-3319-eb11-81e3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101311;true;ПРИВОКЗАЛЬНА, будинок 35-А;f58bf37f-8113-e611-80db-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10101321;true;МЕХАНІЗАТОРІВ, будинок 15-А;82bcadd7-4a70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101331;true;ПОВІТРОФЛОТСЬКИЙ, будинок 64;12274b5a-ce2c-e211-9e9c-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10101341;true;Скалецького, 15-А;6ee8b8cb-4870-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101351;true;Грушева, 9/1;11fb447a-4a97-e411-bf7a-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10101361;true;БУЛЬВАР ПЕРОВА, будинок 19-А;0905569a-fea6-e911-81a1-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101371;true;ПРОСПЕКТ ПРАЦІ, будинок 2-А;baa53d51-5770-e711-813b-000d3a23e81c;delivery;delivery_moneytransfer;4,0014E+11
+10101381;true;вул. Центральна, 18;13103783-369b-e511-8618-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10101391;true;СТЕФАНИКА, будинок 6;7902a747-4b70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101401;true;ЯБЛУНСЬКА, будинок 144;381c413e-bf6b-e211-81e9-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101411;true;ВУЛИЦЯ КАРАКАЯ, будинок 24;6ed77ca6-4d70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101421;true;вул. Героїв Крут, 15;0542fc92-4dd7-e211-bafa-00155d037932;delivery;delivery_moneytransfer;4,0014E+11
+10101431;true;САДОВА, будинок 11;acb2708b-c338-e411-b1f2-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10101441;true;ВУЛИЦЯ В'ЯЧЕСЛАВА ЧОРНОВОЛА, будинок 103;59ba9c34-2925-e411-844d-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10101451;true;ВУЛИЦЯ ПАТРУСА КАРПАТСЬКОГО, будинок 13-А;c6e89bd9-9551-ea11-81b9-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101461;true;ВУЛИЦЯ ПРИВОКЗАЛЬНА, будинок 1;7450854f-873e-ea11-81b3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101471;true;вул.Мазепи, 42-Б;37fc51eb-004f-e911-8199-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101481;true;ПРОСПЕКТ ІНДУСТРІАЛЬНИЙ, будинок 1;1c828aa6-70c8-e211-9902-00155d037919;delivery;delivery_moneytransfer;4,0014E+11
+10101491;true;1/2 МІКРОРАЙОН, будинок 55;155a8cf6-d024-e711-8127-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10101501;true;ЕЛЕКТРОТЕХНІЧНА, будинок 43-А;50ba4901-cf2c-e211-9e9c-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10101511;true;СІМ'Ї ХОХЛОВИХ, будинок 11/2;264d9100-ee1c-e611-80df-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10101521;true;вул.Данила Галицького, 27;bf1c7536-8aa5-ea11-81ca-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101531;true;вул.В’ячеслава Липинського, 27;c2021287-4c70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101541;true;вул.Шевченка, 120;41bb3ff7-4c70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101551;true;вул.Ладичука, 150;cd085422-996e-ea11-81bd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101561;true;вул.Спаська,16;a580045a-4a54-e811-8160-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101571;true;проспект Вoлодимирський, 94-А;65a7f557-5570-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101581;true;вул.Кузнечна, 28;6003d4a2-e5ae-ea11-81cb-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101591;true;вул.Шевченка, 6;496543f0-4265-e611-80fe-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10101601;true;Володимира Сосюри, 131-Б;e168f0df-5470-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101611;true;Калинівська, 13-В;be8592f5-2cbc-ea11-81cb-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101621;true;Пономарьова, 17;e2da8d07-5470-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101631;true;Приморська, 38-А;05b8e933-f458-e411-afed-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10101641;true;Лесі Українки, 1-А;03329271-022c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10101651;true;ГСК №1, ;013c6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101661;true;Небесної сотні, 4-7;42aa34e1-146e-e311-888e-00155d015107;delivery;delivery_moneytransfer;4,0014E+11
+10101671;true;Олени Пчілки, 10;fb3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101681;true;Шевченка, 2;64f7b371-5370-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101691;true;Доктора Самойловича, 35;83352b2b-2c49-e811-815e-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101701;true;Карла Маркса, 41-А;3fa6a740-2d95-e611-8106-000d3a204dc8;delivery;delivery_moneytransfer;4,0012E+11
+10101711;true;Тихвінська, 1-А;cd68ca28-fe2e-e211-9d8a-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10101721;true;Благовіщенська, 58-А;04154518-6aef-e511-80d6-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10101731;true;Сватівська, 56;0a1813dd-4dd7-e211-bafa-00155d037932;delivery;delivery_moneytransfer;4,0014E+11
+10101741;true;ТАГАНРОЗЬКА, 5;6b3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101751;true;Енергетиків, 139-Л;988c2199-07c9-e211-9902-00155d037919;delivery;delivery_moneytransfer;4,0014E+11
+10101761;true;вул.Живахова гора, 1;f1999201-ebe9-ea11-81d0-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101771;true;вул.Миру, 104;9dc7f2d8-5a70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101781;true;Діброви, 16;e627c8fd-d549-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10101791;true;Козацька, 23;353d14ff-c213-e811-8153-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101801;true;Сергія Серікова, 30;a6cc165f-0473-e911-819e-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101811;true;Мала Гончарівська 17;21285165-c7c5-e911-81a5-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101821;true;Матросова, 48-А;36e10153-823d-e811-815c-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101831;true;ШЕВЧЕНКА, 115/11;ca7287a0-4b70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101841;true;Вакарова, 20;367e0b20-4970-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101851;true;Незалежності, 205;064527c3-e118-e511-9ab9-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10101861;true;Новопечерський, 5;844fa2e2-ce2c-e211-9e9c-00155d053b5d;delivery;delivery_moneytransfer;4,0014E+11
+10101871;true;Кременецька, 26;91ea08ce-125e-ea11-81ba-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101881;true;Дніпровська, 49;4dfb2049-5970-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101891;true;Тараса Шевченка, 77;dcd38e43-5b70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101901;true;Тищика, 4;cb726c26-5d70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10101911;true;Перемоги, 11;d650bf66-082c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10101921;true;Івана Мазепи, 63;df15df9e-c21b-e811-8155-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101931;true;Агрономічна, 205/3;ab997d28-8748-e811-815e-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101941;true;Театральна, 3;0f6a9a35-10b3-e611-8112-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10101951;true;Соборна, 121;528456d7-de07-eb11-81de-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101961;true;Георгія Лангемака, 76-А;8e6074f7-3ff4-ea11-81d2-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101971;true;ШЕВЧЕНКА, 26;bbd8af63-c22c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10101981;true;вул. Петра Захарова, 36;90f2e8f2-94d8-ea11-81cd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10101991;true;Балаклійське шосе, 8;30da79f0-3053-ea11-81b9-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102001;true;Машинобудівників, 1;8e08c345-961e-eb11-81e3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102011;true;Богомольця, 2;6bbee295-9575-e611-8104-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102021;true;Виноградна, 3-А;aea4931e-8096-e911-81a1-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102031;true;Каруни, 75;4af56871-f24a-e911-8198-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102041;true;Гостинна, 2;9c6520cf-0659-e411-afed-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10102051;true;Цегляний, 19;d73a6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10102061;true;Курчатова, 117-А;eb3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10102071;true;Микити Головка, 12;3e14097e-2825-e411-844d-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10102081;true;Комарова, 5;226a3c12-0b2c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10102091;true;Транспортна, 14;26537f6b-4d70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102101;true;50 років Перемоги, 6;377839e1-2725-e911-818b-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102111;true;Польова, 83;5e310dc7-0c2c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10102121;true;Монастирська, 8-А;498409b0-8d63-e611-80fd-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102131;true;вул.Симоненка, 1-Г;6aedc924-4f70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102141;true;Чернігівська, 10;5564a410-5b70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102151;true;Любарського, 159;7d37ea8b-f779-e411-bf77-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10102161;true;Грушевського, 16-А;c4883432-b705-e811-8153-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102171;true;Ярмаркова, 28;f9ac0567-848b-e411-bf77-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10102181;true;Успенська, 14-А;d1bc61c0-5370-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102191;true;Вокзальна, 34;2a3816bb-77cd-ea11-81cc-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102201;true;Робоча, 82-А;906d654e-178e-e711-8141-000d3a23e81c;delivery;delivery_moneytransfer;4,0014E+11
+10102211;true;вулиця Затишна, 36;e850ed1f-01f4-e911-81aa-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102221;true;вулиця Вілійська, 6-Г;d7883ebf-2a5d-ea11-81ba-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102231;true;вулиця Різдвяна, 27;0ee31eb4-9077-eb11-81f8-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102241;true;вулиця Гагаріна, 8;9b209ae4-dbe9-e511-80d6-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10102251;true;вул.Марії Сокіл, 28;2dc167a4-3aef-e511-80d6-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10102261;true;вулиця Кононенка, ряд 21-А, місце 7;a38507dd-5d70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102271;true;вулиця ПРИВОКЗАЛЬНА, 3;376f9215-bc6b-e211-81e9-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102281;true;вулиця Богдана Хмельницького, 44/84;992c23ce-4d7b-e611-8104-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102291;true;вулиця Залізнична, 164;b9345f48-07c9-e211-9902-00155d037919;delivery;delivery_moneytransfer;4,0014E+11
+10102301;true;вулиця Кленова, 12-А;4fd3eec3-be1d-e611-80e0-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10102311;true;проспект Наддніпрянський, 1-Б;4d8f7dbd-507e-ea11-81bf-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102321;true;вулиця Данила Апостола, 38;b906bc7e-5670-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102331;true;вулиця Боднарука, 28;f73b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10102341;true;проспект СОБОРНИЙ, 108;cb2178bc-3a9b-e511-8618-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10102351;true;вулиця Європейська, 52;85f070be-8613-e611-80db-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10102361;true;вулиця Героїв Небесної Сотні, 68;3f1e8b01-4bd7-e211-bafa-00155d037932;delivery;delivery_moneytransfer;4,0014E+11
+10102371;true;вул.Ювілейна, 70;1bc35831-1d2f-eb11-81e7-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102381;true;вулиця Зелена, 7-А;8f8961db-734b-e711-8134-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102391;true;вулиця Грушевського, 92;0873f763-0e5e-ea11-81ba-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102401;true;вулиця Незалежності, 58/1;c5d1e85a-8f59-eb11-81f1-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102411;true;вулиця Чкалова, 50/1;3aab4a02-97ca-ea11-81cc-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102421;true;вулиця Дніпропетровська, 238;b20d2158-d024-e711-8127-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102431;true;вулиця Генерала Чупринки, 15;468daf4e-4986-eb11-81f8-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102441;true;вулиця Труша, 2-А;d9bdbc25-2c5d-ea11-81ba-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102451;true;вулиця Чайковського, 12;f73a6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10102461;true;вулиця Героїв Небесної Сотні, 78;2dff277c-5e70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102471;true;вул. ім.Тараса Козака, 20;39a34a7e-21c5-e711-814a-000d3a242a2c;delivery;delivery_moneytransfer;4,0014E+11
+10102481;true;вулиця Залізнична, 4-Г;58cd6e33-0c82-e911-81a0-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102491;true;вул.Заводська, 1/1;a13b5c95-f342-e411-b358-000d3a200936;delivery;delivery_moneytransfer;4,0014E+11
+10102501;true;вулиця Степова, 9;a9d53405-f9fe-e811-8188-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102511;true;вулиця Шота Руставелі, 7;bf0040ab-5870-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102521;true;провулок Янтарний, 1;e93b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10102531;true;вулиця Центральна, 65;fccf3f2b-1554-eb11-81f0-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102541;true;вулиця Рєпкіна, 14;a954d680-5870-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102551;true;вулиця ДРОГОБИЦЬКА, 7;6d21c426-7ca3-e711-8146-000d3a23e81c;delivery;delivery_moneytransfer;4,0014E+11
+10102561;true;вулиця Нищинського, 1;bd0d6c49-6cb0-ea11-81cb-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102571;true;вулиця Центральна, 206-А;d8c371dd-a8a2-e611-8110-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102581;true;вулиця Свято-Покровська, 108-А;717e298c-f48b-eb11-81fc-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102591;true;вулиця Пилипа Орлика, 12;e3996ed2-06c9-e211-9902-00155d037919;delivery;delivery_moneytransfer;4,0014E+11
+10102601;true;вулиця ЦЕНТРАЛЬНА, 47;617b14da-f76c-ea11-81bd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102611;true;вулиця 1-го Травня, 29-А;cbd69291-9828-e911-818b-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102621;true;вулиця Стефаника, 26;676da222-99ca-ea11-81cc-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102631;true;вулиця Львівська, 55;33a52630-9e5c-eb11-81f3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102641;true;вулиця Грушевського, 1, 1;75b24c16-8565-e811-8163-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102651;true;вулиця Першотравнева, 17;ad99b2d2-97be-e911-81a3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102661;true;вулиця Зірненська, 24/287;0e5b003e-9f5c-eb11-81f3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102671;true; Ринок Барабашова (6), павільон С-011-21, ;877a2dea-8dae-eb11-820d-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102681;true;вулиця Фестивальна, 5;3df65768-93ff-e411-a12e-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10102691;true;вулиця Шахтарська, 3;56c00e8d-3458-e811-8160-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102701;true;вулиця Державна, 10;870261ad-c8c5-e911-81a5-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102711;true;вулиця Максимовича, 33;4e76547b-4870-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102721;true;вулиця Жадановського, 13;9049d81f-5731-e711-812b-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102731;true;вулиця Київська, 34;9b591f81-b75b-e211-b130-00155d03790e;delivery;delivery_moneytransfer;4,0014E+11
+10102741;true;вулиця Купріна, 116-Д;3b9ac389-0e8e-e511-8e46-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10102751;true;вул.Чехова, 2;b4600125-928c-e611-8105-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102761;true;вулиця Спортивна, 11а;f2771650-b86c-e411-8576-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10102771;true;вулиця Вокзальна, 46;7857f54a-fc68-ea11-81bc-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102781;true;вулиця ГАГАРІНА, 29-А;5380ba96-2bed-ea11-81d0-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102791;true;вулиця Мічуріна, 4;92a3c132-ece9-ea11-81d0-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102801;true;вулиця Грушевського, 20;03fa22ac-f3c2-eb11-8218-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102811;true;вулиця Дружби, 36;2f9e0a19-8f8c-e611-8105-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102821;true;вулиця Гуцульського повстання, 13;43d551e7-25d6-e911-81a6-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102831;true;вулиця Федорова, 29/2;f08dc3bc-c31b-e811-8155-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102841;true;вулиця Дальницька, 50-17;c941f4f7-5870-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102851;true;вулиця Піонерська, 29;bccfe80d-1e2b-e611-80eb-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102861;true;вулиця Пушкіна, 1;2b20471e-29e1-e811-8184-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102871;true;вулиця ШЕВЧЕНКА, 34;23f46e2b-0411-e511-b3b5-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10102881;true;вулиця Полтавська, 2;c355c646-9c75-e611-8104-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102891;true;вулиця Коцюбинського, 4;9a2f98c2-416f-ea11-81bd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102901;true;вулиця Героїв Дніпра, ЗЗ;7c1b16af-0a2c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10102911;true;вулиця Шевченка, 327;fe2ec31a-ea79-e411-bf77-000d3a200160;delivery;delivery_moneytransfer;0
+10102921;true;вулиця Гвардійська, 122-124;abc23f19-5e70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;4,0014E+11
+10102931;true;вулиця Якутська, 8;0f660f16-fb9e-e811-817a-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102941;true;вулиця Незалежності, 65-А;067cf340-a1be-e911-81a3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10102951;true;вулиця Адмірала Головка, 40;a32e67ba-74e8-eb11-a854-002248824c26;delivery;delivery_moneytransfer;4,0014E+11
+10102961;true;вулиця 23-го серпня, 21;742aac51-1bbe-e611-811d-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10102971;true;вулиця Гагаріна, 12;2f5c03eb-a5f5-e511-80d6-000d3a2187cd;delivery;delivery_moneytransfer;4,0014E+11
+10102981;true;вулиця Кононенка, магазин 15-П;c8ea2b15-0d2c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10102991;true;вулиця ЗАВОДСЬКА, 49/9;1114103d-8fef-eb11-a864-002248824c26;delivery;delivery_moneytransfer;0
+10103001;true;вулиця 5-тий квартал, 3;afc2fa7a-8260-e711-8139-000d3a23e81c;delivery;delivery_moneytransfer;4,0014E+11
+10103011;true;вулиця Луцька, 1;6f13191c-20c8-eb11-8218-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103021;true;вулиця Велика Набережна, 51;5d364dc4-0b8e-e511-8e46-000d3a200160;delivery;delivery_moneytransfer;4,0014E+11
+10103031;true;вулиця ЦЕНТРАЛЬНА, 28;000102ad-4564-ea11-81ba-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103041;true;вулиця Велика Кільцева, 4-А;27141688-2337-e711-812b-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10103051;true;вулиця Грушевського, 114;15e098c6-6906-ec11-a880-002248824c26;delivery;delivery_moneytransfer;4,0014E+11
+10103061;true;вулиця Василя Стуса, 3-І;946b4a7e-6706-ec11-a880-002248824c26;delivery;delivery_moneytransfer;4,0014E+11
+10103071;true;вулиця Миру, 1/155;2ba21077-c32c-e311-8b0d-00155d037960;delivery;delivery_moneytransfer;4,0014E+11
+10103081;true;вулиця Шевченка, 1;9d8ca171-3bb9-eb11-8214-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103091;true;вулиця Соборна, 206;c8c215c3-8d1e-eb11-81e3-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103101;true;вулиця МАЯКОВСЬКОГО, 49;a2a175cc-4a2c-e811-8158-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103111;true;вулиця Українська, 89-Б;b0f7e004-95d8-ea11-81cd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103121;true;вулиця Павла Каплуна, 73;d62d0f57-876e-ea11-81bd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103131;true;вулиця ДЖЕРЕЛЬНА, 16;dcec6ba3-fcd4-e711-814d-000d3a242a2c;delivery;delivery_moneytransfer;4,0014E+11
+10103141;true;вулиця Петлюри, 7-Б;361ad5ec-00cc-ea11-81cc-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103151;true;вулиця Мирошниченко, 37;c487ba7d-7aa3-e711-8146-000d3a23e81c;delivery;delivery_moneytransfer;4,0014E+11
+10103161;true; Смолянський майдан, 3;9e3ed126-4c70-e211-9ce1-00155d012a15;delivery;delivery_moneytransfer;0
+10103171;true; 19-й км Старокиївської дороги, 4;d069aa60-c6c5-e911-81a5-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103181;true;вулиця Новозаводська, 24-1;773b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;0
+10103191;true;площа Перемоги, 2-Б;f48fbea6-bcb4-eb11-8213-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103201;true;вулиця Каланчацька, 1-А;8e9d0d60-c6c2-e611-811d-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10103211;true;вулиця Європейська, 74-Е;238a0989-0004-e711-8126-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10103221;true;вулиця Зміївська, 62;8fce0cc4-e90f-ec11-8484-002248834307;delivery;delivery_moneytransfer;4,0014E+11
+10103231;true;вулиця Озерна, 3;f671fe10-b498-e911-81a1-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103241;true;проспект Героїв, 57-37;6f3b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10103251;true;вулиця Перемоги, 1;c53b6d45-b249-e211-ab75-00155d012d0d;delivery;delivery_moneytransfer;0
+10103261;true;вулиця Сумська, 8;03690b6c-d649-e211-9515-00155d012d0d;delivery;delivery_moneytransfer;4,0014E+11
+10103271;true;вулиця Героїв України, 113-Б;481b2e44-3a1d-ec11-8492-002248834307;delivery;delivery_moneytransfer;0
+10103281;true;вулиця Ліхачова, 2/6;df4d3f26-4bf4-e611-8123-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10103291;true;вулиця ЗАВОДСЬКА, 136;e6f3a2c8-2a48-e611-80ef-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10103301;true;вулиця Шевченка, 27-А;9381be6e-3cd0-eb11-8218-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103311;true;вулиця В`ячеслава Чорновола,  4-Б;45f77e27-0db3-e611-8112-000d3a204dc8;delivery;delivery_moneytransfer;0
+10103321;true;вулиця Миру, 107;eabe7f37-27d7-ea11-81cd-000d3a20e396;delivery;delivery_moneytransfer;0
+10103331;true;вулиця Героїв Майдану, 19;eabe7f37-27d7-ea11-81cd-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103341;true;вулиця Яремчука, 21;b6906e91-034f-e911-8199-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103351;true;вулиця ЦЕНТРАЛЬНА, 27-А;a07c1234-4ede-eb11-a841-002248824c26;delivery;delivery_moneytransfer;4,0014E+11
+10103361;true;вулиця Степана  Бандери, 60-А;ae629271-13a8-e611-8111-000d3a204dc8;delivery;delivery_moneytransfer;4,0014E+11
+10103371;true;вулиця Привокзальна, 10-Д;fcb89b3e-7ea3-e711-8146-000d3a23e81c;delivery;delivery_moneytransfer;0
+10103381;true;вулиця Шевченка, 120;6d8f6287-3911-ec11-8487-002248834307;delivery;delivery_moneytransfer;0
+10103391;true;вулиця Першого Травня, 1-А;9c257460-462c-e811-8158-000d3a20e396;delivery;delivery_moneytransfer;4,0014E+11
+10103401;true;вулиця Чорноморська, 2-А;5fe1a465-7ce5-eb11-a853-002248824c26;delivery;delivery_moneytransfer;0
+10600181;true;вул. Кашинського, 21;1757;intime;satua;400900105
+10601902;true;вул. Кобринських, 4;1937;intime;satua;0
+10604481;true;вул. Консульська, 63/4;1597;intime;satua;400900121
+10604491;true;вул. Донецька, 2-а;1596;intime;satua;400900105
+10605962;true;вул. Городоцька, 355/4;2079;intime;satua;0
+11000011;true;01004, вул. Басейна, 6;11000011;mandarin;Mandarin;4,0014E+11
+11100011;true;65014 м. Одеса, провулок Сабанський, будинок 3 офіс 20;11100011;ugtel;satua;0
+11200011;true;29000, м. Хмельницький, вул. Свободи, буд. 3/1;11200011;paymarket;satua;0
+11400011;true;Київ, вул. Велика Кільцева, буд. 4-А;11400011;markup;satua;0
+11500011;true;вул. Пушкінська, буд. 79/1;11500011;alda;satua;0
+11600011;true;36002, Полтавська область, м.Полтава, вул. Довженка, буд. 2-А;11600011;astro;satua;0
+11800011;true;01004, вул. Басейна, 6;11800011;expo;satua;0
+11900011;true;Шевченко 1;11900011;softline.ms;satua;0
+12000012;true;Катеринінська вул., 26;12000012;citrus;satua;0
+12000021;true;Ювілейне с., Нижнедніпровська вул., 17;12000021;citrus;satua;400800818
+12000022;true;Ювілейне с., Нижнедніпровська вул., 17;12000022;citrus;satua;0
+12000031;true;Яворницького пр-т, 55;12000031;citrus;satua;400800818
+12000032;true;Яворницького пр-т, 55;12000032;citrus;satua;400800818
+12000041;true;Европейская вул., 1;12000041;citrus;satua;400800818
+12000051;true;Харківська вул., 3;12000051;citrus;satua;400800818
+12000052;true;Харківська вул., 3;12000052;citrus;satua;400800818
+12000061;true;Дворцова вул., 4в;12000061;citrus;satua;400800818
+12000062;true;Дворцова вул., 4в;12000062;citrus;satua;400800818
+12000071;true;Леніна пр., 190;12000071;citrus;satua;400800818
+12000072;true;Леніна пр., 190;12000072;citrus;satua;400800818
+12000081;true;Запорожская ул., 1Б;12000081;citrus;satua;400800818
+12000082;true;Запорожская ул., 1Б;12000082;citrus;satua;400800818
+12000091;true;В.Васильківська вул. , 66-68;12000091;citrus;satua;400800818
+12000092;true;В.Васильківська вул. , 66-68;12000092;citrus;satua;400800818
+12000101;true;Хрещатик вул., 52;12000101;citrus;satua;400800818
+12000102;true;Хрещатик вул., 52;12000102;citrus;satua;400800818
+12000111;true;В.Васильківська вул. , 23;12000111;citrus;satua;400800818
+12000112;true;В.Васильківська вул. , 23;12000112;citrus;satua;400800818
+12000121;true;Горкого вул. , 176;12000121;citrus;satua;400800818
+12000122;true;Горкого вул. , 176;12000122;citrus;satua;0
+12000131;true;Оболонский пр-т, 1-Б;12000131;citrus;satua;400800818
+12000132;true;Оболонский пр-т, 1-Б;12000132;citrus;satua;0
+12000141;true;Майдан Незалежності, 1;12000141;citrus;satua;400800818
+12000142;true;Майдан Незалежності, 1;12000142;citrus;satua;400800818
+12000151;true;Берковецкая ул.,6Д;12000151;citrus;satua;0
+12000152;true;Берковецкая ул.,6Д;12000152;citrus;satua;400800818
+12000161;true;Хрещатик вул., 29;12000161;citrus;satua;400800818
+12000162;true;Хрещатик вул., 29;12000162;citrus;satua;400800818
+12000181;true;Ген. Ватутина ул., 2;12000181;citrus;satua;400800818
+12000182;true;Ген. Ватутина ул., 2;12000182;citrus;satua;0
+12000191;true;Александра Мишуги ул., 4;12000191;citrus;satua;0
+12000192;true;Александра Мишуги ул., 4;12000192;citrus;satua;400800818
+12000211;true;Потьомкінська вул., 65/7;12000211;citrus;satua;400800818
+12000212;true;Потьомкінська вул., 65/7;12000212;citrus;satua;400800818
+12000221;true;Центральний пр., 69;12000221;citrus;satua;400800818
+12000231;true;Адм.Макарова вул.,60А;12000231;citrus;satua;400800818
+12000232;true;Адм.Макарова вул.,60А;12000232;citrus;satua;0
+12000241;true;Пушкіна вул.,52;12000241;citrus;satua;400800818
+12000242;true;Пушкіна вул.,52;12000242;citrus;satua;400800818
+12000251;true;Суворова вул., 56;12000251;citrus;satua;400800818
+12000261;true;Мира пр.,  31;12000261;citrus;satua;4,0011E+11
+12000271;true;Мира пр.,  19;12000271;citrus;satua;400800818
+12000272;true;Мира пр.,  19;12000272;citrus;satua;400800818
+12000281;true;Рішельєвська вул., 32;12000281;citrus;satua;400800818
+12000291;true;Ак. Глушко вул., 16;12000291;citrus;satua;400800818
+12000301;true;Ак.Філатова вул., 55;12000301;citrus;satua;400800818
+12000311;true;Заболотного вул., 52;12000311;citrus;satua;400800818
+12000312;true;Заболотного вул., 52;12000312;citrus;satua;400800818
+12000321;true;Академіка Корольова вул., 94;12000321;citrus;satua;400800818
+12000331;true;Космонавтів вул., 5;12000331;citrus;satua;400800818
+12000341;true;Пантелеймонівська вул., 64;12000341;citrus;satua;400800818
+12000351;true;Пантелеймонівська вул., 88;12000351;citrus;satua;400800818
+12000361;true;Преображенська вул., 30;12000361;citrus;satua;400800818
+12000362;true;Преображенська вул., 30;12000362;citrus;satua;0
+12000371;true;Преображенська вул., 42;12000371;citrus;satua;400800818
+12000381;true;Добровольського пр., 114;12000381;citrus;satua;400800818
+12000391;true;Катеринінська вул., 14;12000391;citrus;satua;400800818
+12000401;true;Маршала Жукова пр-т, 2;12000401;citrus;satua;400800818
+12000402;true;Маршала Жукова пр-т, 2;12000402;citrus;satua;400800818
+12000411;true;Пантелеймонівська вул., 21;12000411;citrus;satua;400800818
+12000412;true;Пантелеймонівська вул., 21;12000412;citrus;satua;400800818
+12000421;true;Віце-Адм. Жукова вул., 17/19;12000421;citrus;satua;400800818
+12000422;true;Віце-Адм. Жукова вул., 17/19;12000422;citrus;satua;400800818
+12000431;true;Аркадийская аллея;12000431;citrus;satua;400800818
+12000441;true;Костюринський пров., 2;12000441;citrus;satua;0
+12000442;true;Костюринський пров., 2;12000442;citrus;satua;400800818
+12000451;true;Сумська вул., 17;12000451;citrus;satua;0
+12000452;true;Сумська вул., 17;12000452;citrus;satua;400800818
+12000461;true;Героїв Труда вул., 7;12000461;citrus;satua;400800818
+12000462;true;Героїв Труда вул., 7;12000462;citrus;satua;0
+12000471;true;Площа Свободы, 8;12000471;citrus;satua;400800818
+12000472;true;Площа Свободы, 8;12000472;citrus;satua;400800818
+12000481;true;Пушкiнська вул., 67/69;12000481;citrus;satua;400800818
+12000482;true;Пушкiнська вул., 67/69;12000482;citrus;satua;400800818
+12000501;true;Яворницького пр-т, 55;12000501;citrus;satua;400800818
+12000511;true;В. Васильківська вул., 8;12000511;citrus;satua;400800818
+12000521;true;Майдан Незалежності, 1;12000521;citrus;satua;0
+12000531;true;Потьомкінська вул., 52;12000531;citrus;satua;400800818
+12000541;true;Мира пр., 10/60-Н;12000541;citrus;satua;0
+12000551;true;Пантелеймонівська вул., 21;12000551;citrus;satua;0
+12000561;true;Преображенська вул., 27;12000561;citrus;satua;0
+12000571;true;Маразлієвська вул., 1 20;12000571;citrus;satua;0
+12000581;true;Заболотного вул., 52;12000581;citrus;satua;0
+12000591;true;Пушкiнська вул., 36;12000591;citrus;satua;400800818
+12000601;true;Басейна вул., 5А;12000601;citrus;satua;0
+12000611;true;Сергія Варламова вул., 28;12000611;citrus;satua;0
+12000621;true;Соборная ул., 24;12000621;citrus;satua;400800818
+12000622;true;Соборная ул., 24;12000622;citrus;satua;400800818
+12000631;true;Степана Бандеры пр-т, 23;12000631;citrus;satua;400800818
+12000632;true;Степана Бандеры пр-т, 23;12000632;citrus;satua;0
+12000641;true;Залаегерсег вул., 18;12000641;citrus;satua;400800818
+12000642;true;Залаегерсег вул., 18;12000642;citrus;satua;0
+12000643;true;Шевченка бульвар 208/1;12000643;citrus;satua;0
+12000644;true;Шевченка бульвар, 208/1;12000644;citrus;satua;0
+12000645;true;вул. Лермонтова, 37/1;12000645;citrus;satua;400800818
+12000646;true;вул.Лермонтова, 37/1 ;12000646;citrus;satua;400800818
+12000647;true;Генуезська вул., 5;12000647;citrus;satua;400800818
+12000648;true;Генуезська вул., 5;12000648;citrus;satua;400800818
+12000649;true;Ковпака вул., 26;12000649;citrus;satua;400800818
+12000650;true;Ковпака вул., 26;12000650;citrus;satua;400800818
+12000651;true;Дніпровська набережна, 10;12000651;citrus;satua;400800818
+12000652;true;Дніпровська набережна, 10;12000652;citrus;satua;400800818
+12000653;true;Соборний проспект, 147;12000653;citrus;satua;400800826
+12000654;true;Соборний проспект, 147;12000654;citrus;satua;400800818
+12000655;true;Південна дорога, 1;;;;
+;12000655;citrus;satua;400800818;;
+12000656;true;Яворницького пр-т, 58;12000656;citrus;satua;4,0013E+11
+12000657;true;Яворницького пр-т, 58;12000657;citrus;satua;400800818
+12000658;true;Маршала Жукова пр-т, 2;12000658;citrus;satua;400800818
+12000659;true;Горького вул., 176;12000659;citrus;satua;400800818
+12000660;true;600-річчя вул., 17;12000660;citrus;satua;400800818
+12000661;true;600-річчя вул., 17;12000661;citrus;satua;400800818
+12000662;true;Давида Ойстраха вул., 32;12000662;citrus;satua;400800818
+12000663;true;Горкого вул., 176;12000663;citrus;satua;0
+12000664;true;Берковецкая ул.,6Д;12000664;citrus;satua;0
+12000665;true;30-ти річчя Перемоги площа, 1;12000665;citrus;satua;400800818
+12000666;true;30-ти річчя Перемоги площа, 1;12000666;citrus;satua;400800818
+12000667;true;Берковецкая ул.,6Д;12000667;citrus;satua;400800818
+12000668;true;Зіньківська вулиця, 6/1А;12000668;citrus;satua;400800818
+12000669;true;Зіньківська вулиця, 6/1А;12000669;citrus;satua;400800818
+12100011;true;Ільяниця, Закарпатська;12100011;mohnach;satua;0
+12300011;true;вул. Троїцька, 3-А;12300011;level4x4;satua;0
+12400011;true;вул. Конституції, буд.16, приміщення 4;12400011;emision;satua;0
+12600011;true;вул. Гоголя, буд.5, корп.А;12600011;peremoga;satua;0
+12700011;true;вул. Гоголя, буд.5, корп.А;12700011;unitraiding;satua;0
+12800011;true;"вул. Маршала 	Тимошенка, буд. 9.";12800011;scrup.iron;satua;0
+12900011;true;м. Дніпро, вул. Троїцька, 3-А;12900011;next.level;satua;0
+13000011;true;вул. 9-го січня, буд. 1.;13000011;in.technologies;in.technologies;0
+13100011;true; вул.Січневого повстання, 11-а;13100011;favorite.service;satua;0
+13300001;true;Шевченко 1;13300001;justin;justin-services;0
+13300011;true;ВУЛИЦЯ КОСМІЧНА, 25-Д;7510401001;justin;justin-services;0
+13300021;true;ВУЛИЦЯ МАЛИНОВСЬКОГО, 8;7510406002;justin;justin-services;0
+13300031;true;проїзд Станіславського, 7;7200201295;justin;justin-services;0
+13300041;true;ВУЛИЦЯ ДРАЙЗЕРА, 8;7100103004;justin;justin-services;0
+13300051;true;бульвар Шевченка, 207;7201101271;justin;justin-services;0
+13300061;true;ВУЛИЦЯ ГОРЛІВСЬКА , 124/140;7100102006;justin;justin-services;0
+13300071;true;ВУЛИЦЯ СЕМЕНА СКЛЯРЕНКА, 17;7100105007;justin;justin-services;0
+13300081;true;вул.Миру, 40;7204400559;justin;justin-services;0
+13300091;true;ПРОСПЕКТ ПЕРЕМОГИ, 47;7100109009;justin;justin-services;0
+13300101;true;Овідіопольський район, смт. Авангард, ВУЛИЦЯ 7-Й КМ ОВІДІОПОЛЬСЬКОЇ ДОРОГИ, будинок 1;7421200545;justin;justin-services;0
+13300111;true;ВУЛИЦЯ АКАДЕМІКА ЗАБОЛОТНОГО, 37;7100101011;justin;justin-services;0
+13300121;true;ПРОСПЕКТ СТЕПАНА БАНДЕРИ, 23;7100105012;justin;justin-services;0
+13300131;true;ВУЛИЦЯ  ГЕТЬМАНА МАЗЕПИ, 11;7308506013;justin;justin-services;0
+13300141;true;ВУЛИЦЯ КУЛЬПАРКІВСЬКА, 226-А;7308502014;justin;justin-services;0
+13300151;true;ВУЛИЦЯ АКАДЕМІКА ВІЛЬЯМСА, 75;7409701015;justin;justin-services;0
+13300161;true;ВУЛИЦЯ СЕРЕДНЯ, 83-А;7409702016;justin;justin-services;0
+13300171;true;ПРОСПЕКТ ЛЮДВІГА СВОБОДИ, 30;7511209017;justin;justin-services;0
+13300181;true;ПРОСПЕКТ ТРАКТОРОБУДІВНИКІВ, 130;7511203018;justin;justin-services;0
+13300191;true;ВУЛИЦЯ ГЕРОЇВ ПРАЦІ, 9;7511202019;justin;justin-services;0
+13300201;true;вул.Сім'ї Кульженків, 33, секція 2, приміщення 5-Б;7100105778;justin;justin-services;0
+13300211;true;вул. Голосіївська, 7;7100101558;justin;justin-services;0
+13300221;true;Святошинський р-н.,  просп. Леся Курбаса, 15-А;7100108022;justin;justin-services;0
+13300231;true;вул. Академіка Корольова, 3;7100108771;justin;justin-services;0
+13300241;true;Печерський р-н.,  вул. Академіка Філатова, 7;7100106024;justin;justin-services;0
+13300261;true;Оболонський р-н.,  вул. Бережанська, 22;7100105091;justin;justin-services;0
+13300271;true;Деснянський р-н.,  вул. Милославська, 10-А;7100103027;justin;justin-services;0
+13300281;true;Деснянський р-н.,  просп. Маяковського, 75/2;7100103028;justin;justin-services;0
+13300291;true;Голосіївський р-н.,  вул. Казимира Малевича, 107;7100101029;justin;justin-services;0
+13300301;true;Святошинський р-н.,  бульв. Кольцова, 14-М;7100108030;justin;justin-services;0
+13300311;true;вул.Острозького, 6/1;7309100924;justin;justin-services;0
+13300331;true;Личаківський р-н., вул. Б.Хмельницького, 214;7308506033;justin;justin-services;0
+13300341;true;Залізничний р-н.,  вул. Широка, 87;7308502034;justin;justin-services;0
+13300351;true;Солом'янський р-н.,  вул. Солом’янська, 40/4;7100109035;justin;justin-services;0
+13300361;true;Львівська обл., м.Дрогобич, вул. Володимира Великого, 7;7308700036;justin;justin-services;0
+13300371;true;Святошинський р-н.,  просп. Перемоги, 87;7100108037;justin;justin-services;0
+13300381;true;проспект Героїв Сталінграду, 46;7100105260;justin;justin-services;0
+13300391;true;Слобідський р-н.,  вул. Молочна, 1;7511207039;justin;justin-services;0
+13300401;true;Московський р-н.,  просп. Тракторобудівників, 108;7511203088;justin;justin-services;0
+13300411;true;Московський р-н.,  вул. Героїв Праці, 15;7511203041;justin;justin-services;0
+13300421;true;Чечелівський р-н.,  вул. Новокримська, 3А;7510405042;justin;justin-services;0
+13300431;true;Новокодакський р-н.,  вул. Юрія Кондратюка, 4;7510407043;justin;justin-services;0
+13300441;true;Шевченківський р-н.,  вул. Європейська, 18-А;7510405044;justin;justin-services;0
+13300451;true;Соборний р-н.,  бульв. Слави, 5;7510401045;justin;justin-services;0
+13300461;true;вул. Момота, 42/5;7202400244;justin;justin-services;0
+13300471;true;вул. Центральна, 343;7204800047;justin;justin-services;0
+13300481;true;вул. Гагаріна, 16;7308200048;justin;justin-services;0
+13300491;true;вул. Романа Шухевича, 12;7308200049;justin;justin-services;0
+13300501;true;вул. Кравчука, 23;7308400050;justin;justin-services;0
+13300511;true;Малиновський р-н.,  вул. Маршала Малиновського, 33;7409702051;justin;justin-services;0
+13300521;true;вул.Василя Стуса, 5;7309500607;justin;justin-services;0
+13300531;true;Дніпровський р-н.,  вул. Ентузіастів, 7;7100104224;justin;justin-services;0
+13300561;true;Києво-Святошинський р-н., вул. Святошинська, 40;7204200056;justin;justin-services;0
+13300571;true;площа Вічева, 1;7320600938;justin;justin-services;0
+13300581;true;Христинівський р-н., м. Христинівка, вул. Шевченка, 52;7201200266;justin;justin-services;0
+13300591;true;Дніпровський р-н.,  просп. Броварський, 51;7100104220;justin;justin-services;0
+13300601;true;Оболонський р-н.,  вул. Північна, 46;7100105221;justin;justin-services;0
+13300611;true;Солом'янський р-н.,  бул. Вацлава Гавела, 29;7100109222;justin;justin-services;0
+13300621;true;Солом'янський р-н.,  вул. Гавела Вацлава, 83;7100109062;justin;justin-services;0
+13300631;true;Києво-Святошинський р-н., с. Крюківщина, вул. Жулянська, 1-А;7205100267;justin;justin-services;0
+13300641;true; вул. Соборна, 64/1;7205500268;justin;justin-services;0
+13300651;true;Голосіївський р-н.,  вул. Метрологічна, 14-Б;7100101217;justin;justin-services;0
+13300661;true;Суворовський р-н.,  вул. Кримська, 71;7409704066;justin;justin-services;0
+13300671;true;Суворовський р-н.,  вул. Генерала Бочарова, 44;7409704067;justin;justin-services;0
+13300681;true;Суворовський р-н.,  вул. Генерала Бочарова, 13-А;7409704068;justin;justin-services;0
+13300691;true;Тернопільська обл., м.Тернопіль, вул. 15-го Квітня, 5-А;7309600069;justin;justin-services;0
+13300701;true;Дарницький р-н.,  вул. Ялтинська, 6;7100102070;justin;justin-services;0
+13300711;true;Шевченківський р-н.,  вул. Татарська, 3/2;7100110215;justin;justin-services;0
+13300721;true;Святошинський р-н., вул. Булгакова 11;7100108073;justin;justin-services;0
+13300731;true;Васильківський р-н., смт. Глеваха, вул. Вокзальна, 18-А;7205400074;justin;justin-services;0
+13300741;true;Козелецький р-н., вул. Соборності, 53/1;7607500256;justin;justin-services;0
+13300751;true;Оболонський район, ВУЛИЦЯ Кирилівська, будинок 154;7100105768;justin;justin-services;0
+13300771;true;ВУЛИЦЯ ГРУШЕВСЬКОГО, будинок 42;7205400078;justin;justin-services;0
+13300781;true;Суворовський р-н.,  просп. Ушакова, 49;7410203079;justin;justin-services;0
+13300791;true;бульвар Олександрійський, будинок 115;7201700750;justin;justin-services;0
+13300801;true;вул. Генерала Свободи, 9-Б;7308900081;justin;justin-services;0
+13300821;true;ВУЛИЦЯ КООПЕРАТИВНА, будинок 1;7616102547;justin;justin-services;0
+13300831;true;Декабристів, будинок 151;7205500752;justin;justin-services;0
+13300841;true;Вишгородський р-н., с.Хотянівка, вул. Валова, 2-в;7211900085;justin;justin-services;0
+13300851;true;Шевченківський р-н.,  просп. Перемоги, 64;7511209528;justin;justin-services;0
+13300861;true;Київський р-н.,  вул. Дружби Народів, 279-А;7511202087;justin;justin-services;0
+13300871;true;Слобідський р-н.,  просп. Героїв Сталінграда, 171;7511207089;justin;justin-services;0
+13300881;true;провулок Парусний, 7;7510407606;justin;justin-services;0
+13300891;true;Дніпровський р-н.,  бульв. Дарницький, 8-А;7100104092;justin;justin-services;0
+13300901;true;Шевченківський р-н.,  вул. Дорогожицька, 2;7100110093;justin;justin-services;0
+13300911;true; м.Київ, Подільський р-н.,  вул. Западинська, 15;7100107094;justin;justin-services;0
+13300921;true;Деснянський р-н.,  пров. Карельський, 3;7100104095;justin;justin-services;0
+13300931;true;Оболонський р-н.,  вул. Маршала Малиновського, 34;7100105096;justin;justin-services;0
+13300941;true;Оболонський р-н.,  вул. Маршала Малиновського, 5;7100105097;justin;justin-services;0
+13300951;true;Дніпровський р-н.,  вул. Митрополита Андрея Шептицького, 4;7100104098;justin;justin-services;0
+13300961;true;вул. Шевченка, 21-А;7607800568;justin;justin-services;0
+13300971;true;Придніпровський р-н.,вул.Надпільна, 411;7201101100;justin;justin-services;0
+13300981;true;Київський район, ВУЛИЦЯ ФОНТАНСЬКА ДОРОГА, будинок 17/19;7409703566;justin;justin-services;0
+13300991;true;Автозаводський р-н.,  вул. Київська, 66-Г;7201601102;justin;justin-services;0
+13301001;true;вул. Героїв Небесної Сотні, 2-А;7201700103;justin;justin-services;0
+13301011;true;вул. Богдана Хмельницького, 6;7201900104;justin;justin-services;0
+13301021;true; вул. Харківське Шосе, 15;7202800105;justin;justin-services;0
+13301041;true;Броварський р-н., вул. Соборна, 2;7203900107;justin;justin-services;0
+13301051;true;Голосіївський р-н, вул. Цілинна, 2-А;7100101259;justin;justin-services;0
+13301061;true;Києво-Святошинський р-н., с.Софіївська Борщагівка, вул. Сагайдачного, 20-А;7204400109;justin;justin-services;0
+13301071;true;Вишгородський р-н., вул. Свято-Покровська, 222;7206300110;justin;justin-services;0
+13301081;true;Броварський р-н.  вул. Миру, 45;7207000111;justin;justin-services;0
+13301091;true;пл. Привокзальна, 5;7207100112;justin;justin-services;0
+13301101;true;Городнянський р-н., вул. Чернігівська, 26-А;7607300113;justin;justin-services;0
+13301111;true;Бахмацький р-н., вул. Ярослава Мудрого, 24;7607900114;justin;justin-services;0
+13301121;true;вул. Теліги Олени, 49;7308200115;justin;justin-services;0
+13301131;true;Залізничний р-н.,  вул. Виговського, 100;7308502116;justin;justin-services;0
+13301141;true;вул. Валова, 24/1;7308600117;justin;justin-services;0
+13301161;true;Старокостянтинівський р-н., вул. Миру, 19/2;7309100119;justin;justin-services;0
+13301171;true;вул. Нігинське Шосе, 41/1;7309300120;justin;justin-services;0
+13301181;true;вул. Головна, 265-А;7309400121;justin;justin-services;0
+13301191;true;65490, Одеська обл., м.Теплодар, вул. Піонерна, 1;7409800122;justin;justin-services;0
+13301201;true;Заводський р-н.,  вул. Озерна, 17-Г;7410001123;justin;justin-services;0
+13301211;true;Центральний р-н.,  вул. Чкалова, 82;7410004124;justin;justin-services;0
+13301221;true;шосе  Дніпропетровське, 4, приміщення 1;7510301791;justin;justin-services;0
+13301231;true;Суворовський р-н.,  просп. 200-Річчя Херсона, 8;7410203126;justin;justin-services;0
+13301241;true;вул. Потьомкінська, 42/14;7410203570;justin;justin-services;0
+13301251;true;Саксаганський р-н.,  вул. Володимира Великого, 24-Д;7510305128;justin;justin-services;0
+13301261;true; Саксаганський р-н.,  бульв. Вечірній, 33;7510305129;justin;justin-services;0
+13301271;true;Заводський р-н.,  вул. Ринкова, 2;7510603130;justin;justin-services;0
+13301281;true;БАЗОВА, будинок 11;7510607770;justin;justin-services;0
+13301291;true;Дніпровський р-н.,  бульв. Вінтера, 30/ вул. Кияшка, 3;7510602132;justin;justin-services;0
+13301301;true;Хортицький р-н.,  вул. Василя Сергієнка, 9;7510606133;justin;justin-services;0
+13301311;true;бульвар Шевченка, будинок 71;7510601790;justin;justin-services;0
+13301321;true;Центральний р-н., просп. Металургів, 112;7511104135;justin;justin-services;0
+13301331;true;Немишлянський р-н.,  вул. Краснодарська, 181-А;7511204136;justin;justin-services;0
+13301341;true;Московський р-н.,  вул. Павлова, 44-Б;7511202137;justin;justin-services;0
+13301351;true;Вишгородський р-н., вул. Визволителів, 56-А;7212000138;justin;justin-services;0
+13301361;true;вул. Березнева 12, приміщення 460;7100104608;justin;justin-services;0
+13301371;true;проспект Миру, 3;7621400753;justin;justin-services;0
+13301381;true; Деснянський р-н.,  вул. Музична, 1;7607201141;justin;justin-services;0
+13301391;true;ул. Героїв Майдану, 71;7309400142;justin;justin-services;0
+13301401;true;Дніпровський р-н.,  вул. Залаегерсег, 18;7410201143;justin;justin-services;0
+13301411;true;просп. Свободи, 1;7309000145;justin;justin-services;0
+13301421;true;вул.Грушевського, 19;7205500610;justin;justin-services;0
+13301431;true;Солом'янський р-н.,  бульв. Гавела Вацлава, 54/26;7100109148;justin;justin-services;0
+13301441;true;Суворовський р-н.,  вул. Семена Палія, 93-А;7409704149;justin;justin-services;0
+13301451;true;Приморський р-н.,  вул. Довженка, 4;7409703150;justin;justin-services;0
+13301461;true;вул.Бориса Гмирі, 5-А;7100102798;justin;justin-services;0
+13301471;true;Дарницький р-н.,  пр. Бажана, 30;7100102156;justin;justin-services;0
+13301481;true;Дніпровський р-н.,  вул. Бойченка Олександра, 7;7100104157;justin;justin-services;0
+13301491;true;вул. Текстильна, 28-ч;7309600161;justin;justin-services;0
+13301501;true;Суворовський р-н.,  вул. 49-ї Гвардійської Дивізії, 45;7410203162;justin;justin-services;0
+13301511;true;бульв. Північний ім. Пушкіна, 2-А;7309500163;justin;justin-services;0
+13301521;true;Оболонський р-н, вул. Тимошенка, 19;7100105261;justin;justin-services;0
+13301531;true;Дніпровський р-н, б-р Перова, 23-Б;7100104257;justin;justin-services;0
+13301541;true;вул. Сквирське Шосе, 230;7201700166;justin;justin-services;0
+13301551;true;вул. Шевченко, 10В;7203300167;justin;justin-services;0
+13301561;true; вул. Оноре Де Бальзака, 42/20;7100103168;justin;justin-services;0
+13301571;true;Дніпровський р-н.,  бульв. Верховної Ради, 17;7100104169;justin;justin-services;0
+13301581;true;Деснянський р-н.,  вул. Миколи Закревського, 87;7100103170;justin;justin-services;0
+13301591;true;Оболонський р-н.,  вул. Йорданська, 20;7100105171;justin;justin-services;0
+13301601;true;Московський р-н., проспект Тракторобудівників, 128-В;7511203296;justin;justin-services;0
+13301611;true;Деснянський р-н.,  вул. Академіка Курчатова, 19-а;7100103173;justin;justin-services;0
+13301621;true;Деснянський р-н.,  вул. Курчатова, 5;7100103174;justin;justin-services;0
+13301631;true;Дніпровський р-н, вул. Марганецька, 22;7100104175;justin;justin-services;0
+13301641;true;Дніпровський р-н, вул. Запорожця, 21;7100104176;justin;justin-services;0
+13301651;true;Шевченківський р-н.,  вул. Печенізька, 1/7А;7100110177;justin;justin-services;0
+13301661;true; площа Гагаріна, 2;7200202152;justin;justin-services;0
+13301671;true;пр-кт Свободи 26-Б;7100107613;justin;justin-services;0
+13301681;true;Подільський р-н.,  просп. Правди, 66;7100107180;justin;justin-services;0
+13301691;true;вул. Чернігівська, 12;7205800181;justin;justin-services;0
+13301701;true;вул. Івана Богуна, 21-А;7202200182;justin;justin-services;0
+13301711;true;Шевченків Шлях, 140-А;7203100183;justin;justin-services;0
+13301721;true;Васильківський р-н.,, вул. Київська, 99;7206000184;justin;justin-services;0
+13301731;true;ВУЛИЦЯ ГОГОЛЯ, будинок 582;7201101185;justin;justin-services;0
+13301741;true;вул. Будівельників, 15;7200400186;justin;justin-services;0
+13301751;true;вул. Гоголя, 98/6;7201400187;justin;justin-services;0
+13301761;true;вул. Калинова, 2;7202900188;justin;justin-services;0
+13301771;true;Суворовський р-н., вул. Героїв Оборони Одеси, 98-Б;7409704189;justin;justin-services;0
+13301781;true;вул. 1 Травня, 75;7200500601;justin;justin-services;0
+13301791;true;Новоград-Волинський р-н., вул. Пушкіна, 6;7200800191;justin;justin-services;0
+13301801;true;Ніжинський р-н., вул. Незалежності, 36/1;7607800192;justin;justin-services;0
+13301811;true;вул. Олександра Халаменюка, 7;7201601193;justin;justin-services;0
+13301821;true;Московський р-н.,  вул. Гвардійців Широнінців, 42;7511203194;justin;justin-services;0
+13301831;true;вул. Володимирська, 2-Г;7204500195;justin;justin-services;0
+13301841;true;вул. Амвросія Бучми 1, приміщення 3;7100104614;justin;justin-services;0
+13301851;true;вул. Івана Ступака, 4;7202300197;justin;justin-services;0
+13301861;true;Оболонський р-н.,  вул. Північна, 6-в;7100105198;justin;justin-services;0
+13301871;true;Дарницький р-н.,  вул. Харківське шосе, 8;7100102199;justin;justin-services;0
+13301881;true;вул. Юності  26;7206400616;justin;justin-services;0
+13301891;true;Святошинський р-н.,  вул. Зодчих, 52;7100108201;justin;justin-services;0
+13301901;true;Деснянський р-н.,  вул. Бальзака, 94;7100103202;justin;justin-services;0
+13301911;true;Печерський р-н.,  вул. Велика Васильківська, 143/2;7100106203;justin;justin-services;0
+13301921;true;Солом'янський р-н.,  вул. Борщагівська, 212;7100109204;justin;justin-services;0
+13301931;true;Солом'янський р-н.,  вул. Білецького Академіка, 3;7100109205;justin;justin-services;0
+13301941;true;вул. Європейська, 66;7201303797;justin;justin-services;0
+13301951;true;Оболонський р-н.,  вул. Вишгородська, 44;7100105207;justin;justin-services;0
+13301961;true;Святошинський р-н.,  вул. Корольова Академіка, 8;7100108208;justin;justin-services;0
+13301971;true;Деснянський р-н.,  вул. Закревського, 61/2;7100103209;justin;justin-services;0
+13301981;true;Дарницький р-н.,  вул. Здолбунівська, 4;7100102210;justin;justin-services;0
+13301991;true;Подільський р-н.,  просп. Правди, 58;7100107211;justin;justin-services;0
+13302001;true;Святошинський р-н.,  вул. Якуба Коласа, 25;7100108212;justin;justin-services;0
+13302011;true;Хортицький р-н, вул.Хортицьке шосе,30-А;7510606255;justin;justin-services;0
+13302021;true;проспект Героїв Небесної Сотні, 16/5;7204400553;justin;justin-services;0
+13302031;true;Київський р-н.,  пр-т Небесної Сотні, 5-А;7409701225;justin;justin-services;0
+13302041;true;Дніпровський р-н.,  вул. Звенигородська, 14;7510602226;justin;justin-services;0
+13302051;true;Дніпровський р-н.,  вул. Дудикіна, 28;7510602227;justin;justin-services;0
+13302061;true;Хортицький р-н.,  просп. Ювілейний, 22-Б;7510606228;justin;justin-services;0
+13302081;true;проспект Слобожанський, 13;7510402605;justin;justin-services;0
+13302091;true;Олександрівський р-н.,  вул. Українська, 6;7510605231;justin;justin-services;0
+13302111;true;вул. Софіївська, 40;7510700233;justin;justin-services;0
+13302121;true;вул. Свободи, 27-В;7510700234;justin;justin-services;0
+13302131;true;Гагаріна, 21/Крилова, 2;7510700763;justin;justin-services;0
+13302141;true;ТАГАНРОЗЬКА, будинок 5;7511104236;justin;justin-services;0
+13302151;true;вул. Горького, 166;7510500237;justin;justin-services;0
+13302161;true;вул. Минайська, 16-г;7308900238;justin;justin-services;0
+13302171;true;вул. Богдана Хмельницького, 54;7607400239;justin;justin-services;0
+13302181;true;Бобровицький р-н., вул. Незалежності, 40-А;7607600240;justin;justin-services;0
+13302191;true;вул.Коробова, 2-Д, 4;7510407612;justin;justin-services;0
+13302201;true;Ставищенський р-н., вул. Паркова, 4;7202100242;justin;justin-services;0
+13302221;true;Бориспільський р-н., вул. Броварська, 2-А;7202600245;justin;justin-services;0
+13302231;true;вул. Курчатова, 9;7308200254;justin;justin-services;0
+13302241;true;Тульчинський р-н., вул. Леонтовича, 55-Б;7200300247;justin;justin-services;0
+13302251;true;просп. Богдана Хмельницького, 17;7511000248;justin;justin-services;0
+13302261;true;просп. Миру, 30-А;7201300249;justin;justin-services;0
+13302271;true; Лівобережний р-н, вул. Київська, 27/1;7511102264;justin;justin-services;0
+13302281;true;Амур-Нижньодніпровський р-н, пр. Слобожанський, 31-Д;7510406251;justin;justin-services;0
+13302291;true;Франківський р-н., вул. Наукова, 35-А;7308505252;justin;justin-services;0
+13302301;true;вул Доківська, 14/1;7212100112;justin;justin-services;0
+13302311;true; Деснянський р-н, вул. Драйзера, 24;7100103219;justin;justin-services;0
+13302321;true;Деснянський р-н, просп. Лісовий, 23;7100103063;justin;justin-services;0
+13302331;true;08302, вул. Головатого, 30;7202400072;justin;justin-services;0
+13302341;true;08140, Києво-Святошинський р-н., вул. Володимирська, 35/1;7212200272;justin;justin-services;0
+13302351;true;02098,  Дарницький р-н, вул. Дніпровська Набережна, 33;7100102273;justin;justin-services;0
+13302361;true;61029, Київський р-н, просп.Тракторобудівників, 59/56;7511202040;justin;justin-services;0
+13302371;true;08301, вул. Бежівка, 31-Б;7202400743;justin;justin-services;0
+13302381;true;02192, Дніпровський р-н, вул. Миропільська, 19;7100104218;justin;justin-services;0
+13302391;true;93120, просп. Перемоги, 86;7511600250;justin;justin-services;0
+13302401;true;93411, просп. Гвардійський, 46;7511700269;justin;justin-services;0
+13302411;true;49038, Центральний р-н, пл. Вокзальна, 13;7510403274;justin;justin-services;0
+13302421;true;25006,  Подільський р-н, вул. Велика Перспективна, 53;7216201276;justin;justin-services;0
+13302441;true;04201,Оболонський р-н, просп. Мінський, 4;7100105278;justin;justin-services;0
+13302451;true; вул. Бузницького 1;7206700279;justin;justin-services;0
+13302461;true; вул. Ревуцького 26;7100102280;justin;justin-services;0
+13302471;true; вул. Павліченко 63;7201700281;justin;justin-services;0
+13302481;true; вул. Ново-Оскольська  2-О;7204000065;justin;justin-services;0
+13302491;true; вул. Шевченка 20;7607800282;justin;justin-services;0
+13302501;true;вул. Зарічна 1-Б, приміщення 231;7100102611;justin;justin-services;0
+13302511;true;вул. Проспектна, 52;7511202779;justin;justin-services;0
+13302521;true;ПРОСПЕКТ ОБОЛОНСЬКИЙ, 21;7100105058;justin;justin-services;0
+13302531;true; вул. Вітянська 2;7204200108;justin;justin-services;0
+13302541;true; вул. Садова  1-Г;7204300286;justin;justin-services;0
+13302551;true;Іллінська, 7-А;7616102755;justin;justin-services;0
+13302561;true; вул. Соборна  1-Г;7204000289;justin;justin-services;0
+13302581;true;ПОЛІСЬКА, будинок 14;7309600291;justin;justin-services;0
+13302591;true;вул.Котлярська, 2;7308501555;justin;justin-services;0
+13302601;true;вул. Головна 57;7309400773;justin;justin-services;0
+13302611;true; вул. Грушевського 35;7319600294;justin;justin-services;0
+13302621;true; Мікрорайон 5  буд.1;7511300297;justin;justin-services;0
+13302631;true;вул.Каманіна, 16-А/2;7409703784;justin;justin-services;0
+13302641;true; вул. Героїв АТО  30-А;7510303299;justin;justin-services;0
+13302651;true; вул. Захисників України 9;7607201300;justin;justin-services;0
+13302661;true; вул. Сумгаїтська 24;7201102301;justin;justin-services;0
+13302671;true; вул. Чорнобильська 3;7100108302;justin;justin-services;0
+13302681;true; вул. Павла Тичини  15-А;7100104303;justin;justin-services;0
+13302691;true;вул.Іванова, 81-А, приміщення 2;7510607604;justin;justin-services;0
+13302701;true; вул. Академіка Філатова 1;7409701304;justin;justin-services;0
+13302711;true; вул. Тараса Шевченка 228;7409900305;justin;justin-services;0
+13302721;true; просп. Лісовий 39;7100103306;justin;justin-services;0
+13302731;true; вул. Євгенія Пікуса  1-А;7200203307;justin;justin-services;0
+13302741;true; провулок Крушельницької  6-А;7510406270;justin;justin-services;0
+13302751;true; площа Старий Ринок 8;7308501308;justin;justin-services;0
+13302761;true;ВУЛИЦЯ АВРАМЕНКА, будинок 6;7510607309;justin;justin-services;0
+13302771;true; вул. Іванова  1-А;7510607310;justin;justin-services;0
+13302781;true; вул.Новокузнецька 20;7510604311;justin;justin-services;0
+13302791;true; пр-т. Гагаріна 3;7510401312;justin;justin-services;0
+13302801;true;вул.600-річчя, 40, приміщення 107;7200202769;justin;justin-services;0
+13302811;true; майдан Привокзальний 5;7200602314;justin;justin-services;0
+13302821;true; вул.Космонавтів  10-А;7200602315;justin;justin-services;0
+13302831;true;вул. Іллюші Кулика, 133;7410201728;justin;justin-services;0
+13302841;true;ВАСИЛЯ СУХОМЛИНСЬКОГО, будинок 78-Б;7510408317;justin;justin-services;0
+13302851;true;бульвар Вацлава Гавела, 18;7100109318;justin;justin-services;0
+13302861;true;ЛУЦЬКА, будинок 1;7315900803;justin;justin-services;0
+13302871;true;проспект Глушкова, 31-А;7100101320;justin;justin-services;0
+13302881;true;вул.Тираспольська, 54, приміщення 743;7100107552;justin;justin-services;0
+13302891;true;вул. Незалежності, 130;7203200246;justin;justin-services;0
+13302911;true;ПРОСПЕКТ СТЕПАНА БАНДЕРИ, 36;7100105216;justin;justin-services;0
+13302921;true;пр-т. Корабелів,  14;7410002324;justin;justin-services;0
+13302931;true;вул. Ярославська,  56-А;7100107327;justin;justin-services;0
+13302941;true;вул. Курортна,  60;7219800329;justin;justin-services;0
+13302951;true;вул. Боярська, 4-Б;7219700326;justin;justin-services;0
+13302961;true;вул. Каховська 62-А;7100104783;justin;justin-services;0
+13302971;true;ГАЛИЦЬКА, будинок 52;7320700804;justin;justin-services;0
+13302981;true;ВУЛИЦЯ МАЛА АРНАУТСЬКА, будинок 74;7409703334;justin;justin-services;0
+13302991;true;вул.Академіка Павлова, 165-Г;7511202796;justin;justin-services;0
+13303001;true;вул. Сергія Москаленка,  39;7203300332;justin;justin-services;0
+13303011;true;проспект Михайла Лушпи, 5, корпус 27;7616101756;justin;justin-services;0
+13303021;true;участок Щивки, 1, приміщення 5;7322900777;justin;justin-services;0
+13303031;true; вул. Едуарда Фукса, 79, прим. 36;7510304786;justin;justin-services;0
+13303041;true;ТБІЛІСЬКА, будинок 4;7510307563;justin;justin-services;0
+13303051;true;вул. Волинська,  9/11;7100109344;justin;justin-services;0
+13303061;true;пр-т.200-річчя Херсона,  28-А;7410203337;justin;justin-services;0
+13303071;true;вул. Молодіжна,  5;7410203339;justin;justin-services;0
+13303081;true;вул.Лавреньова, 12;7410202789;justin;justin-services;0
+13303091;true;вул.Стрітенська, 26-А;7410202765;justin;justin-services;0
+13303101;true;вул. Патона,  12;7410202340;justin;justin-services;0
+13303121;true;вул. Миколаївська, 2;7200202345;justin;justin-services;0
+13303131;true;вул. Грушевського,  11;7201303335;justin;justin-services;0
+13303141;true;Ягідна, 5-А;7206100346;justin;justin-services;0
+13303151;true;пр-т Павла Тичини, 1-В;7100104347;justin;justin-services;0
+13303161;true;пр-т Петра Григоренка, 25;7511207348;justin;justin-services;0
+13303171;true;Московський р-н, вул. Академіка Павлова, 120;7511203349;justin;justin-services;0
+13303181;true;ПРОСПЕКТ ГЕРОЇВ СТАЛІНГРАДА, 12-П;7100105703;justin;justin-services;0
+13303191;true;Вознесенівський р-н., вул. Яценка, 2;7510601352;justin;justin-services;0
+13303201;true;проспект Архітектора Альошина, 2;7511201557;justin;justin-services;0
+13303211;true;ВУЛИЦЯ ЧЕХОВА, будинок 29-Г;7200200354;justin;justin-services;0
+13303221;true;вул. Тараса Шевченка 358-А;7308506624;justin;justin-services;0
+13303241;true;вул.Європейська, 16;7421200822;justin;justin-services;0
+13303251;true;провулок Вільний, 2-А;7510402603;justin;justin-services;0
+13303261;true;площа Центральна, 23;7519900749;justin;justin-services;0
+13303271;true;ВУЛИЦЯ ДУДИНСЬКОЇ, будинок 1-А;7511203360;justin;justin-services;0
+13303281;true;пр-т Металургів, 62;7520000361;justin;justin-services;0
+13303291;true;Інгулецький р-н., вул. Недєліна, 43;7510302362;justin;justin-services;0
+13303301;true;Печерський р-н.,бульвар Дружби Народів,16-А;7100106363;justin;justin-services;0
+13303311;true;Голосіївський р-н., вул. Васильківська, 8;7100101364;justin;justin-services;0
+13303331;true;ВУЛИЦЯ 1 ТРАВНЯ, будинок 167-А;7607203366;justin;justin-services;0
+13303341;true;Слобідський р-н., пр-т Гагаріна, 167;7511207367;justin;justin-services;0
+13303351;true;вул. Київська, 4;7203300369;justin;justin-services;0
+13303361;true;Києво-Святошинський р-н., м.Вишневе, вул. Святошинська, 28-А;7204200370;justin;justin-services;0
+13303371;true;Дніпровський р-н,  вул. Євгена Сверстюка, 4/1;7100104371;justin;justin-services;0
+13303381;true;Солом’янський р-н,  вул. Кудряшова, 20;7100109372;justin;justin-services;0
+13303391;true;Дніпровський р-н, пр-т Броварський, 17;7100104373;justin;justin-services;0
+13303411;true;Новопирогівська, 58-А;7100101781;justin;justin-services;0
+13303421;true;вул. Лагунової, 74;7203600376;justin;justin-services;0
+13303431;true;проспект Праці, 33, Г4;7510700915;justin;justin-services;0
+13303441;true;Печерський р-н., площа Печерська, 1;7100106378;justin;justin-services;0
+13303451;true;Космонавтів, 83-А;7410003757;justin;justin-services;0
+13303461;true;Шевченківський р-н., майдан Незалежності, ПТП №1, сектор «А»;7100110380;justin;justin-services;0
+13303471;true;КОНЄВА МАРШАЛА, будинок 7;7100101701;justin;justin-services;0
+13303481;true;Святошинський р-н., проспект Перемоги, 108;7100108382;justin;justin-services;0
+13303501;true;Франківський р-н., вул.Генерала Чупринки, 14;7308505761;justin;justin-services;0
+13303511;true;ГРИГОРІВСЬКЕ ШОСЕ, будинок 88;7520100385;justin;justin-services;0
+13303521;true;вул.Руська, 23;7309600930;justin;justin-services;0
+13303531;true;10 масив, 206;7421200780;justin;justin-services;0
+13303551;true;вул.Соборності, 29-А;7201301922;justin;justin-services;0
+13303561;true;Приморський район, ВУЛИЦЯ ФОНТАНСЬКА ДОРОГА, будинок 58/1, приміщення 16;7409701550;justin;justin-services;0
+13303571;true;пр-кт Григоренка Петра 5а, приміщення 3-А;;;;
+;7100102556;justin;justin-services;0;;
+13303581;true;ВУЛИЦЯ ХАРКІВСЬКА, будинок 2/2;7616101741;justin;justin-services;0
+13303591;true;вул. Максима Кривоноса, 2-Б;7309600144;justin;justin-services;0
+13303601;true;вул. Степана Бандери , 2-А;7309200158;justin;justin-services;0
+13303611;true;Деснянський р-н., вул. Матеюка, 15;7100103393;justin;justin-services;0
+13303621;true;вул. Вінницька, 18;7200700394;justin;justin-services;0
+13303641;true;ВУЛИЦЯ ПОЛОВКИ, будинок 72;7201301396;justin;justin-services;0
+13303651;true;Суворовський р-н., вул. Марсельська, 35-Б;7409704397;justin;justin-services;0
+13303671;true;проспект Небесної Сотні, 47/3;7409701766;justin;justin-services;0
+13303681;true;вул.Євгена Коновальця, 5/185;7309600554;justin;justin-services;0
+13303691;true;ЦЕНТРАЛЬНА, будинок 58;7422300808;justin;justin-services;0
+13303701;true;ДРУЖБИ НАРОДІВ, будинок 87;7100102402;justin;justin-services;0
+13303711;true;вул.Вербова, 17-В;7100105776;justin;justin-services;0
+13303721;true;проспект Героїв України, 13;7410004404;justin;justin-services;0
+13303731;true;ПОТЬОМКІНСЬКА, будинок 100-А;7410004405;justin;justin-services;0
+13303751;true;НАБЕРЕЖНА , будинок 6-Г;7204300407;justin;justin-services;0
+13303771;true;вул.Шевченка, 24;7206600409;justin;justin-services;0
+13303781;true;вул.Першотравнева, 7;7204200164;justin;justin-services;0
+13303791;true;пр-кт. Миру, 1;7410003770;justin;justin-services;0
+13303811;true;пр-кт Миру 118;7607202560;justin;justin-services;0
+13303821;true;вул. Київська, 313;7613800414;justin;justin-services;0
+13303831;true;Московська, 12;7607800415;justin;justin-services;0
+13303841;true;бульвар Перова, 14;7100104416;justin;justin-services;0
+13303851;true;ГОРОДОЦЬКА, будинок 355/4;7308506417;justin;justin-services;0
+13303861;true;вул. Коломийська, 2;7308504418;justin;justin-services;0
+13303871;true;вул. Виговського, 1;7308502419;justin;justin-services;0
+13303881;true;вул. Підгірна  51;7308900619;justin;justin-services;0
+13303891;true;вул. Польська, 14;7409703421;justin;justin-services;0
+13303901;true;проспект Науки, 41/43;7511209422;justin;justin-services;0
+13303911;true;вул. Наталії Ужвій, 58;7511202423;justin;justin-services;0
+13303921;true;КОЦАРСЬКА, будинок 43;7511208424;justin;justin-services;0
+13303931;true;Європейська, 11;7510604425;justin;justin-services;0
+13303941;true;Президента Грушевського, 2;7308400426;justin;justin-services;0
+13303951;true;Володимира Маяковського, 47;7100103427;justin;justin-services;0
+13303961;true;Гетьмана Мазепи, 1-Б;7308506428;justin;justin-services;0
+13303971;true;МИРУ, 15;7308200410;justin;justin-services;0
+13303981;true;Степана Бандери, 57;7308200429;justin;justin-services;0
+13303991;true;Шевченка, 3;7313000430;justin;justin-services;0
+13304011;true;Сергія Данченка, 30;7100107432;justin;justin-services;0
+13304021;true;Гагаріна, будинок 73;7201101751;justin;justin-services;0
+13304041;true;В’ячеслава Чорновола, 16-І;7308506435;justin;justin-services;400900126
+13304051;true;Центральний, 159;7410004436;justin;justin-services;0
+13304061;true;Ярослава Мудрого, 38;7511202437;justin;justin-services;0
+13304071;true;пр-кт Гагаріна 24;7511206772;justin;justin-services;0
+13304081;true;Вокзальна, будинок 10;7515200802;justin;justin-services;0
+13304091;true;вул.Пекарська, 25;7308503600;justin;justin-services;0
+13304101;true;проспект Перемоги, 108;7200108382;justin;justin-services;0
+13304111;true;ЕНГЕЛЬСА, будинок 110;7515300442;justin;justin-services;0
+13304121;true;Олександрівський, 99;7511201443;justin;justin-services;0
+13304131;true;Академіка Вальтера, 10;7511202444;justin;justin-services;0
+13304151;true;проспект Московський, 256;7511204795;justin;justin-services;0
+13304161;true;проспект Гагаріна, 40;7510401794;justin;justin-services;0
+13304181;true;Сахарова, 1-А;7420500449;justin;justin-services;0
+13304191;true;Київська, 36;7204400450;justin;justin-services;0
+13304211;true;вул.Михайла Старицького, 45;7308200626;justin;justin-services;0
+13304221;true;Шевченка, 4-Е;7409703453;justin;justin-services;0
+13304231;true;вул. Зодчих, 2;7200202454;justin;justin-services;0
+13304241;true;Крилова, 14;7200602455;justin;justin-services;0
+13304251;true;Замкова, 6;7309600456;justin;justin-services;0
+13304261;true;Металургів, 17-А;7510602457;justin;justin-services;0
+13304291;true;СИХІВСЬКА, 12;7308504460;justin;justin-services;0
+13304311;true;Кармелюка, 13;7320600462;justin;justin-services;0
+13304321;true;Крилова, 13;7410001463;justin;justin-services;0
+13304341;true;Миру, 10/41;7414300465;justin;justin-services;0
+13304351;true;КОРОЛЕНКА 1;7308200435;justin;justin-services;0
+13304361;true;Потьомкінська, 31;7410203436;justin;justin-services;0
+13304371;true;АРХІТЕКТОРА ВЕРБИЦЬКОГО 18;7100102468;justin;justin-services;0
+13304391;true;СРІБНОКІЛЬСЬКА 14-А;7100102470;justin;justin-services;0
+13304401;true;ЗДОЛБУНІВСЬКА, 17;7100102471;justin;justin-services;0
+13304411;true;вул. Шолохова  1-Б, приміщення А-1;7510406620;justin;justin-services;0
+13304421;true;Тараса Шевченка, 6-А;7204500775;justin;justin-services;0
+13304431;true;вул.Академіка Тамма , 4-Б;7216202476;justin;justin-services;0
+13304451;true;вул.Базарна, 11, №IX, літера А-4;7510605943;justin;justin-services;0
+13304461;true;вул.Віктора Чміленка, 9-Б;7216201760;justin;justin-services;0
+13304481;true;200-РІЧЧЯ КРИВОГО РОГУ, 12-А;7510305052;justin;justin-services;0
+13304491;true;ДЖЕРЕЛЬНА , будинок 88;7219700480;justin;justin-services;0
+13304501;true;ВУЛИЦЯ ПІЛОТСЬКА, будинок 77/3-Д;7309200481;justin;justin-services;0
+13304511;true;ЩЕРБАКІВСЬКОГО ДАНИЛА, 46, приміщення 41;7100110759;justin;justin-services;0
+13304521;true;провулок Олекси Тихого, 3/49;7204100782;justin;justin-services;0
+13304531;true;АВІАКОНСТРУКТОРА ІГОРЯ СІКОРСЬКОГО 1-А;7100110484;justin;justin-services;0
+13304551;true;шосе Харківське, 150/15, приміщення 5;7100102793;justin;justin-services;0
+13304561;true;УШИНСЬКОГО 3;7100109487;justin;justin-services;0
+13304571;true;бульв. Перова 19-Г;7100104785;justin;justin-services;0
+13304581;true;ПУШКІНА, 9;7218000489;justin;justin-services;0
+13304591;true;ГЕРОЇВ ЧЕРНОБИЛЯ 11;7200900490;justin;justin-services;0
+13304601;true;ГАГАРІНА, 4;7212300491;justin;justin-services;0
+13304611;true;вул.Героїв Небесної Сотні, 56;7220800745;justin;justin-services;0
+13304621;true;Геологів, 2;7309200700;justin;justin-services;0
+13304631;true;вул.Базова, 11;7421200774;justin;justin-services;0
+13304641;true;вул. Стебницька 58, приміщення 16;7320300618;justin;justin-services;0
+13304651;true;проспект Добровольського , 151/1;7409704799;justin;justin-services;0
+13304661;true;вул. Січових Стрільців, 2-А;7308800788;justin;justin-services;0
+13304671;true;вул.Володимира Великого, 59-А;7320600498;justin;justin-services;0
+13304681;true;ВУЛИЦЯ Івана Левинського, 3-А;7320300499;justin;justin-services;0
+13304691;true;проспект Перемоги, 93;7607201551;justin;justin-services;0
+13304701;true;СВОБОДИ, 73;7309200501;justin;justin-services;0
+13304711;true;ІВАНА ПУЛЮЯ 5-А;7100109502;justin;justin-services;0
+13304721;true;КИЇВСЬКИЙ ШЛЯХ 23;7203000503;justin;justin-services;0
+13304741;true;вул.Бельведерська, 2/Галицька, 1;7309500918;justin;justin-services;0
+13304751;true;ВУЛИЦЯ ІНТЕРКУЛЬТУРНА, 36;7511000506;justin;justin-services;0
+13304771;true;Клубна, 10;7621400754;justin;justin-services;0
+13304781;true;ПЕКАРСЬКА, 31;7308503509;justin;justin-services;0
+13304791;true;ХІМКІВ, 29;7420900510;justin;justin-services;0
+13304801;true;ЛАВКІВСЬКА, 1-Е;7316300702;justin;justin-services;0
+13304811;true;вул. Паршина 16В/1;7510405621;justin;justin-services;0
+13304831;true;АКАДЕМІКА ПАЛЛАДІНА, будинок 16;7100103514;justin;justin-services;0
+13304841;true;Стародубська, 4;7308502748;justin;justin-services;0
+13304861;true;Івана богуна, 2;7514200517;justin;justin-services;0
+13304871;true;ЗАЛІЗНИЧНА, будинок 3;7410004516;justin;justin-services;0
+13304881;true;ПРИВОКЗАЛЬНА , будинок 10;7320200518;justin;justin-services;0
+13304891;true;Січових Стрільців, 34-А;7315400519;justin;justin-services;0
+13304901;true;Космонавтів, 81/24;7410003520;justin;justin-services;0
+13304911;true;вул. Фонтанська дорога, 4-А;7409703786;justin;justin-services;0
+13304921;true;вул.Городоцька, 139/2С;7308505935;justin;justin-services;0
+13304931;true;ВУЛИЦЯ НЕЗАЛЕЖНОСТІ , будинок 19;7614900523;justin;justin-services;0
+13304941;true;ДРОГОБИЦЬКА, 7;7321000524;justin;justin-services;0
+13304951;true;вул.Тараса Шевченка, 113;7308800762;justin;justin-services;0
+13304961;true;вул.Героїв Крут, 60;7616101794;justin;justin-services;0
+13304971;true;Київська, 10;7221100527;justin;justin-services;0
+13304981;true;ЧЕРВОНОЇ КАЛИНИ, 36;7308504529;justin;justin-services;0
+13305001;true;Тупик 1-й Піщаний, 1;7201601758;justin;justin-services;0
+13305011;true;вул.Тараса Шевченка,  1-А;7316500609;justin;justin-services;0
+13305021;true;шосе Харківське, 19;7100102792;justin;justin-services;0
+13305031;true;Кирила Осьмака, 1-Б;7100102534;justin;justin-services;0
+13305041;true;Ярослава Мудрого, 10, приміщення 46;7201700742;justin;justin-services;0
+13305051;true;Ільфа і Петрова, 51;7409701536;justin;justin-services;0
+13305061;true;Семена Палія, 125;7409703537;justin;justin-services;0
+13305071;true;Молодіжна, 32;7204200538;justin;justin-services;0
+13305081;true;Одеська, 70;7205100539;justin;justin-services;0
+13305091;true;Свято-Миколаївська, 36;7510307540;justin;justin-services;0
+13305101;true;Миру, 4;7200700747;justin;justin-services;0
+13305111;true;Бочарова, 50;7421100542;justin;justin-services;0
+13305121;true;вул. Грушевського, 41;7409702767;justin;justin-services;0
+13305131;true;Воскресенска, 14-Е;7100104544;justin;justin-services;0
+13305151;true;Вишгородська, 21;7216201549;justin;justin-services;0
+13305161;true;Київська, 106;7200602728;justin;justin-services;0
+13305171;true;вул. Клавдіївська  40-Г, приміщення 207;7100108742;justin;justin-services;0
+13305191;true;МАЛИШКА АНДРІЯ, будинок 3;7100102565;justin;justin-services;0
+13305201;true;Червонозаводська, 7;7100110564;justin;justin-services;0
+13305211;true;ГНАТА ЮРИ, 20;7100108535;justin;justin-services;0
+13305231;true;КАЗИМИРА МАЛЕВИЧА , будинок 107;7100109552;justin;justin-services;4,0014E+11
+13305241;true;вул.Ярославська, 56-А;7100107553;justin;justin-services;4,0014E+11
+13305281;true;ВУЛИЦЯ ЩЕРБАКІВСЬКОГО ДАНИЛА, 46, приміщення 41;7100110557;justin;justin-services;4,0014E+11
+13305282;true;Малиновського, 25;7100103557;justin;justin-services;0
+13305321;true;СОФІЇВСЬКА, будинок 34;7212900805;justin;justin-services;0
+13305331;true;ТУЛЬЧИАНІВСЬКА, будинок 154;7414400805;justin;Justin;0
+13305341;true;ЛЕСІ УКРАЇНКИ, будинок 14;7308700811;justin;justin-services;0
+13305351;true;ЦЕНТРАЛЬНА, будинок 21/1;7510500809;justin;justin-services;0
+13305361;true;Дружби народів, 16-А;7100106575;justin;justin-services;0
+13305371;true;Васильківська, 8;7100101576;justin;justin-services;0
+13305381;true;ІВАНА БАГРЯНОГО, будинок 4;7308800810;justin;justin-services;0
+13305391;true;ПЛОЩА СІЧОВИХ СТРІЛЬЦІВ, будинок 14/1;7320200819;justin;justin-services;0
+13305401;true;ПРОСПЕКТ СВОБОДИ , будинок 26;7100105579;justin;justin-services;0
+13305411;true;Милославська, 10-А;7100103580;justin;justin-services;0
+13305421;true;вул.Чкалова, 126;7223500834;justin;justin-services;0
+13305431;true;Науки, 41/43;7511209582;justin;justin-services;0
+13305451;true;Біломорська, будинок 1;7100103746;justin;justin-services;0
+13305461;true;СЛОВ'ЯНСЬКА, 35;7204000707;justin;justin-services;0
+13305471;true;ШЕВЧЕНКА, 11А;7614900707;justin;justin-services;0
+13305481;true;МИХАЙЛА ГРУШЕВСЬКОГО, 91;7200602708;justin;justin-services;0
+13305491;true;ГАЙДАМАЦЬКА, 14;7215600709;justin;justin-services;0
+13305501;true;КАШТАНОВА, 6/1;7213100710;justin;justin-services;0
+13305521;true;проспект Шевченка, 30-А;7321300787;justin;justin-services;0
+13305531;true;Свободи, 51;7308900713;justin;justin-services;0
+13305541;true;КОСТЯНТИНІВСЬКА, 71;7100107714;justin;justin-services;0
+13305551;true;Миру, 28-Б/3;7414300715;justin;justin-services;0
+13305571;true;ЛАДОЗЬКА, 16;7510602728;justin;justin-services;0
+13305581;true;мікрорайон 4-й Зарічний 20-Ж;7510304744;justin;justin-services;0
+13305591;true;ЯРОША ОТАКАРА, 17;7511209719;justin;justin-services;0
+13305601;true;СОБОРНОСТІ, 50;7409701720;justin;justin-services;0
+13305621;true;ЦІОЛКОВСЬКОГО, 36;7520100722;justin;justin-services;0
+13305631;true;НЕЗАЛЕЖНОСТІ, 69;7511500723;justin;justin-services;0
+13305641;true;Свободи, 39;7515200724;justin;justin-services;0
+13305651;true;вул.Кам'янська 40, приміщення 117;7510407615;justin;justin-services;0
+13305661;true;Калинова, 12;7510402726;justin;justin-services;0
+13305671;true;Праці, 20;7510700727;justin;justin-services;0
+13305681;true;Київська, 11;7413600743;justin;justin-services;0
+13305691;true;Героїв України, 47;7511000729;justin;justin-services;0
+13305701;true;вул. Калинова 82-Д;7510402602;justin;justin-services;0
+13305711;true;ТРУБНИКІВ, 9;7514200731;justin;justin-services;0
+13305721;true;ГЕТЬМАНСЬКА, 34;7516600732;justin;justin-services;0
+13305731;true;Зелена, 70;7308503733;justin;justin-services;0
+13305751;true;СОБОРНОСТІ, 26;7308400735;justin;justin-services;0
+13305761;true;Степана Бандери, 31;7309500736;justin;justin-services;0
+13305771;true;Привокзальна, 2;7309200737;justin;justin-services;0
+13305781;true;вул.Паркова, 2, приміщення 3;7313000617;justin;justin-services;0
+13305791;true;ВАЛЕНБЕРГА РАУЛЯ, 3-1;7316300739;justin;justin-services;0
+13305801;true;Хмельницьке шосе, 34;7309300764;justin;justin-services;0
+13305811;true;ЗАМОСТЯНСЬКА, 25/21;7200201814;justin;Justin;0
+13305821;true;вул.Дружби, 65;7511400836;justin;justin-services;0
+13305831;true;вул.Гранітна 2, приміщення 13-Н;7409701813;justin;justin-services;0
+13305841;true;вул.Привокзальна, 1;7523200823;justin;justin-services;0
+13305851;true;ВІДРОДЖЕННЯ, 16;7308400825;justin;justin-services;0
+13305861;true;Європейська, 12-А;7222800832;justin;justin-services;0
+13305871;true;вул.Богдана Хмельницького, 3;7511400837;justin;justin-services;0
+13305881;true;ПШЕНИЧНА, 2;7100108817;justin;justin-services;0
+13305891;true;проспект Незалежності, 13;7200601829;justin;justin-services;0
+13305901;true;Горького, 60;7223000833;justin;justin-services;0
+13305911;true;Степана Бандери, 15;7315400812;justin;justin-services;0
+13305921;true;площа Джона Леннона, 7/19;7515100835;justin;justin-services;0
+13305931;true; вул.Калинівська, 13-В;7309400839;justin;justin-services;0
+13305941;true;Пушкінська, 154;7222700826;justin;justin-services;0
+13305951;true;Базова, 17/30;7421200827;justin;justin-services;0
+13305961;true;вул.Михайла Грушевського, 10-А;7223800838;justin;justin-services;0
+13305971;true;Драгоманова, 42;7313200821;justin;justin-services;0
+13305981;true;вул.Філіпова, 1;7222000840;justin;justin-services;0
+13305991;true;площа Коновальця, 3-А/1;7323700841;justin;justin-services;0
+13306001;true;вулиця Центральна, 53;7517700944;justin;justin-services;0
+13306011;true;вулиця Вознесенська, 169-Б;7423600945;justin;justin-services;0
+13306021;true;вулиця Сечені Іштвана, 6;7323900946;justin;justin-services;0
+13306031;true;вулиця Олімпійська, 68;7324000947;justin;justin-services;0
+13306041;true;вулиця Нове Шосе, 8-А, приміщення 117;7204100622;justin;justin-services;0
+13306051;true;вулиця Депутатська, 1-Г;7204100623;justin;justin-services;0
+13306061;true;вулиця Антонова Авіаконструктора, 10-Б;7204000625;justin;justin-services;0
+13306071;true;вулиця Колачевського, 50;7510306836;justin;justin-services;0
+13306081;true;вулиця Таращанська, 191-А, приміщення №4, літера Ж;7201700627;justin;justin-services;0
+13306091;true;вулиця Велика Пермська, 74, літера Г;7216202629;justin;justin-services;0
+13306101;true;вулиця Юрія Вєтрова, 20;7616102630;justin;justin-services;0
+13306111;true;вулиця Інтернаціоналістів, 18;7616101631;justin;justin-services;0
+13306121;true;вулиця Урлівська, 11/44;7100102632;justin;justin-services;0
+13306131;true;вулиця Соборна, 22-Б;7216201628;justin;justin-services;0
+13306141;true;вул. Університетська, 2Ф/2, приміщення 98;7204000633;justin;justin-services;0
+13306151;true;вул. Небесної Сотні, 26;7200601634;justin;justin-services;0
+13306161;true;проспект Свободи, 53, приміщення 58;7520002846;justin;justin-services;0
+13306171;true;проспект Свободи, 67;7520003842;justin;justin-services;0
+13306181;true;проспект Іоанна Путивльського, 34-А;7624200830;justin;justin-services;0
+13500001;true; м.Запоріжжя, вул. Грязнова, буд. 32.;13500001;kapitalsoft;satua;0
+13700001;true;вул. Федори Пушиної, буд. 32;13700001;aldaF;satua;0
+13800001;true;село Петропавлівська Борщагівка, вул. Велика Кільцева, 4-А;13800001;tetatet;satua;0
+13900001;true;провулок Макарова, буд.5;13900001;avanta;satua;0
+14000001;true;вул. В.Хвойки, буд.21;14000001;triumph_traid;satua;0
+14200001;true;Київ, вул. Генерала Алмазова, буд.18/7, кімната 210;14200001;sandexsgrup;satua;0
+14300001;true;вул. Олени Стасової, буд. 17;14300001;finance;finance;0
+14300011;true;вул. Раєвської, буд. 17;14300011;finance;finance;0
+14300012;true;вул. Раєвської, буд. 17;14300012;finance;finance;4008004
+14300013;true;вул. Раєвської, буд. 17;14300013;finance;finance;0
+14300014;true;вул. Раєвської, буд. 17;14300014;finance;finance;0
+14300015;true;вул. Раєвської, буд. 17;14300015;finance;finance;0
+14300016;true;вул. Раєвської, буд. 17;14300016;finance;finance;4008004
+14300021;true;проспект Ландау, буд. 182;14300021;finance;finance;0
+14300022;true;проспект Ландау, буд. 182;14300022;finance;finance;0
+14400001;true;вул. Кіндратенка, буд. 25А;14400001;fortuna-t;satua;0
+14600001;true;Київ, вул. Володимира Винниченка, буд. 7, оф.8;14600001;sevencard;sevencard;0
+14700001;true;Єсеніна 12;14700001;apteka2011;satua;0
+14800001;true;Харків, вул. Клочківська, буд. 337-А;14800001;apteka308;satua;0
+14900011;true;Харків, вул. Полтавський шлях, буд. 27, квартира 2;14900011;gamma55;satua;0
+15000011;true;м. Харків, в’їзд Білостоцький, буд. 3;15000011;danunc;satua;0
+15100011;true;Полтавська обл., м. Лубни, вул. Київська, буд. 3, корпус А;15100011;region2016;satua;0
+15200011;true;Харків, пр. Гагаріна, буд. 244;15200011;temp2011;satua;0
+15300011;true;Харків, вул. Золочівська, буд. 19;15300011;farmarost;satua;0
+15400011;true;Харків, вул. Новгородська, буд. 2;15400011;apteka16;satua;0
+15500011;true;Київ, вул. Кловський спуск, 10, приміщ.73;15500011;rsystem;satua;0
+15700001;true;49055, Дніпропетровська обл., м. Дніпро, вул. Титова, буд. 1;15700001;pay-market;pay-market;0
+15900011;true;Дніпро, Дніпропетровська, Чернишевського, буд. 27;15900011;airon;airon;0
+16000011;true;вул. Львівська, буд. 22-А, офіс 145;16000011;aksson;satua;0
+16100011;true;вул. Володимирська, буд. 57А;16100011;eapteka;eapteca_template;0
+16200011;true;Київ;16200011;leoo;satua;0
+16500011;true;вул. Кулібіна, буд 11;16500011;parfums;parfums;0
+16800011;true;Михайла Грушевського, буд. 10;16800011;smartgroup;satua;0
+16900011;true;Бутлерова, 1;16900011;postua;postua;0
+17000011;true;ГРОДНЕНСЬКА, 32;bbf8e497-33a7-11dd-a17a-001a4d3b885e;satua;satua_makeUp;4,0014E+11
+17000021;true;АКАДЕМІКА БЕЛЕЛЮБСЬКОГО, 40-А;bbf8e491-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000031;true;КОНЮШИННА, 21;b5a47694-385d-11dd-a17c-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000041;true;ХУТОРСЬКА, 101-В;70559c47-25c9-11e7-93fc-00505601031c;satua;satua (1624484036945);4,0014E+11
+17000051;true;Коцарська,58-А;bbf8e4aa-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000061;true;Олега Антонова, 19-А;bbf8e490-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000071;true;БРЯНСЬКА, 15;bbf8e495-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000081;true;КОРАБЕЛЬНА, 6;ca6ee3e5-0073-4cb8-9f5d-adcf37a20375;satua;satua_makeUp;4,0014E+11
+17000091;true;Зелена, 115-А;bbf8e49d-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000101;true;КУРЧАТОВА, будинок 18-В;bbf8e4a3-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000111;true;Незалежності, 126-Б;bbf8e496-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000121;true;вул.Купріна, 10;bbf8e49e-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000131;true;Половка, 72;bbf8e4a2-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000141;true;ВІННИЦЬКЕ ШОСЕ, 1/1;bbf8e4ac-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000151;true;ІНСТРУМЕНТАЛЬНА, 8;bbf8e4ae-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000161;true;Ярослава Мудрого, 83-Б;bbf8e49a-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000171;true;ЧЕРНОВОЛА, 2-В;bbf8e498-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000181;true;ЗВ'ЯЗКІВЦІВ, 1-А;bbf8e49c-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000191;true;ЛУК'ЯНОВИЧА, 1;bbf8e4a8-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000201;true;Севастопольська, 18-А;bbf8e4af-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000211;true;ОЛЕКСИ ТИХОГО, 8;22e5c327-c5ca-4149-9809-15082a34f647;satua;satua (1624484036945);4,0014E+11
+17000221;true;ОЛЕКСАНДРА БЛИСТІВА, 1;bbf8e4a9-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000231;true;вул.Нафтовиків, 15;bbf8e4ab-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000241;true;30 РОКІВ ПЕРЕМОГИ, 5/1;bbf8e4ad-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000251;true;Ярослава Мудрого, 1;602a78ed-813d-4cc6-add6-6f81357ba85c;satua;satua (1624484036945);4,0014E+11
+17000261;true;ГАЙДАМАЦЬКА, 5;bbf8e493-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000271;true;ТАРАСА БУЛЬБИ-БОРОВЦЯ, 30;bbf8e494-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000281;true;Північна, 81-Г;ba7f0972-c886-409e-90fa-c8d5b58d42f0;satua;satua (1624484036945);4,0014E+11
+17000291;true;ГІМНАЗИЧНИЙ, 44;a5e411a8-d6a8-4b62-8bc2-a64832bdcc11;satua;satua (1624484036945);4,0014E+11
+17000301;true;1-Ий Піщаний Тупік, 1;bbf8e499-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000311;true;ЛОМОНОСОВА, 23;bbf8e49f-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000321;true;вул.Мала Морська, 112;bbf8e4a0-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000331;true;Берегівська, 110;b7bb9186-dbf3-4bda-82cd-dcb8af2ad32e;satua;satua (1624484036945);4,0014E+11
+17000341;true;ШУЛЬГІНА, 10/1;c65740da-8f2b-405b-a0fa-a2a1f92e374a;satua;satua (1624484036945);4,0014E+11
+17000351;true;КІРОВОГРАДСЬКЕ ШОСЕ, 157;e1df75b3-4061-43ad-b871-ededaf2e2e51;satua;satua (1624484036945);4,0014E+11
+17000361;true;ПИВОВАРОВА, 4;bbf8e4a5-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000371;true;проспект Курський, 26;bbf8e4a7-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000381;true;МАКСИМА ЗАЛІЗНЯКА, 6-Г;013b48d8-4aed-4d2b-b69b-1d3bf9e199f7;satua;satua (1624484036945);4,0014E+11
+17000391;true;СИБІРЦЕВА, 2;3edbce95-6fa5-11e2-b808-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000401;true;Сквирське Шосе, 178;bbf8e48f-33a7-11dd-a17a-001a4d3b885e;satua;satua (1624484036945);4,0014E+11
+17000411;true;ГЕНЕРАЛА ПУШКІНА, 1-С;d22fd6b9-2ae0-11e1-b0b4-0017a4770020;satua;satua (1624484036945);4,0014E+11
+17000421;true;Брестська, 113-В;1f53ba6d-1486-40ac-bff3-9fae8b36c734;satua;satua (1624484036945);4,0014E+11
+17000431;true;ІНЖЕНЕРІВ, 10;23b767e2-088b-11e2-89e8-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000441;true;ЗАВОДСЬКА, 2-Р;2573c1dc-2500-49d2-9b09-27e1da1a0750;satua;satua (1624484036945);4,0014E+11
+17000451;true;Київська, 112;d8fd9800-5eab-4ec5-83ce-a9e43f0f9dcc;satua;satua (1624484036945);4,0014E+11
+17000461;true;ЦЕНТРАЛЬНА, будинок 63;3edbce97-6fa5-11e2-b808-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000471;true;"ПЛОЩА ЮРІЯ КОНОНЕНКА, будинок 1, МІСЦЕ 15.4 РЯД Т, ТЦ ""ЛОСК";2a5fafa9-c6fe-11e4-8d33-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000481;true;Геологів, 2;22b5f5e8-4594-11e5-bb36-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000491;true;ПИРОГІВСЬКИЙ ШЛЯХ, будинок 34;32894538-d18d-11ea-940e-00505601031c;satua;satua_makeUp;4,0014E+11
+17000501;true;Вокзальна, 50;ab3a6552-bf63-11e5-bb36-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000511;true;Якутська, 8;f2dcd1f7-aaad-11e4-8d33-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000521;true;вул.Залізнична, 5;482bfc91-52a2-11e4-ab3b-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000531;true;ВУЛИЦЯ ДНІПРОВСЬКА, будинок 49;1b3a371c-5d0b-11e5-bb36-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000541;true;СУЧКОВА, 66;195271e2-da1d-11e5-a7ca-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000551;true;МИХАЙЛА КАЛМИКОВА, 5;7c11b633-73ce-11e4-aa9b-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000561;true;Київська, 23;af0c31b2-e8cd-11e4-89fa-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000571;true;Богдана Хмельницького, 8;aa5044c2-7345-11ea-940d-00505601031c;satua;satua (1624484036945);4,0012E+11
+17000581;true;Базова, 11;66784ecc-fd25-11e4-89fa-0017a4770440;satua;satua (1624484036945);4,0012E+11
+17000591;true;вул.Достоєвського, 18-В, приміщення 30;048f68aa-644b-11ea-940d-00505601031c;satua;satua (1624484036945);0
+17000601;true;вул.Львівське шосе, 2;dfe7ef6e-8be6-11eb-941d-00505601031c;satua;satua (1624484036945);4,0014E+11
+17000611;true;вул.Калинова, 8;09181b9a-dc25-11e4-89fa-0017a4770440;satua;satua (1624484036945);4,0014E+11
+17000621;true;Промислова, 50/52;4a14e521-4d4c-11e5-bb36-0017a4770440;satua;satua (1624484036945);400900102
+17000631;true;Академіка Павлова, 120-А;438ba64a-814e-11e5-bb36-0017a4770440;satua;satua (1624484036945);40010011100
+17000641;true;Генерала Захарченка, 1;0630ca63-0ee4-11eb-941c-00505601031c;satua;satua (1624484036945);4,0014E+11
+17000651;true;вулиця Генерала Цвєтаєва, 18;381452fc-a112-11eb-941d-00505601031c;satua;satua (1624484036945);4,0014E+11
+17000661;true;вулиця Радистів, 54;17000661;satua;satua (1624484036945);0
+17000671;true;площа Товарна, 24-Б;a2ac1497-a110-11eb-941d-00505601031c;satua;satua (1624484036945);4,0014E+11
+17000681;true;провулок Енергетичний, 7;17000681;satua;satua (1624484036945);0
+17000691;true;вулиця 15 Квітня, корпус 12;dc4961c3-eecd-11eb-941f-00505601031c;satua;satua (1624484036945);4,0014E+11
+17100001;true;Зоологічна 4-А, офіс 134;17100001;briland;briland;0
+17200001;true;пр. Івана Мазепи, 33;17200001;webpayment;webpayment;0
+17300001;true;пр. Слобожанський,7;17300001;interkambio;interkambio;0
+17400001;true;вул. Щекавицька, 37/48;17400001;karddom;karddom;0
+17500011;true;вул. Болсуновська, буд. 13-15;17500011;kauri;kauri;0
+17600012;true;Катеринінська вул., 26;17600012;citrus1;satua;400800818
+17600021;true;Ювілейне с., Нижнедніпровська вул., 17;17600021;citrus1;satua;400800818
+17600022;true;Ювілейне с., Нижнедніпровська вул., 17;17600022;citrus1;satua;400800818
+17600031;true;Яворницького пр-т, 55;17600031;citrus1;satua;400800818
+17600032;true;Яворницького пр-т, 55;17600032;citrus1;satua;400800818
+17600041;true;Европейская вул., 1;17600041;citrus1;satua;400800818
+17600051;true;Харківська вул., 3;17600051;citrus1;satua;400800818
+17600052;true;Харківська вул., 3;17600052;citrus1;satua;400800818
+17600061;true;Дворцова вул., 4в;17600061;citrus1;satua;400800818
+17600062;true;Дворцова вул., 4в;17600062;citrus1;satua;400800818
+17600071;true;Леніна пр., 190;17600071;citrus1;satua;400800818
+17600072;true;Леніна пр., 190;17600072;citrus1;satua;400800818
+17600081;true;Запорожская ул., 1Б;17600081;citrus1;satua;400800818
+17600082;true;Запорожская ул., 1Б;17600082;citrus1;satua;400800818
+17600091;true;В.Васильківська вул. , 66-68;17600091;citrus1;satua;400800818
+17600092;true;В.Васильківська вул. , 66-68;17600092;citrus1;satua;400800818
+17600101;true;Хрещатик вул., 52;17600101;citrus1;satua;400800818
+17600102;true;Хрещатик вул., 52;17600102;citrus1;satua;400800818
+17600111;true;В.Васильківська вул. , 23;17600111;citrus1;satua;400800818
+17600112;true;В.Васильківська вул. , 23;17600112;citrus1;satua;400800818
+17600121;true;Горкого вул. , 176;17600121;citrus1;satua;400800818
+17600122;true;Горкого вул. , 176;17600122;citrus1;satua;0
+17600131;true;Оболонский пр-т, 1-Б;17600131;citrus1;satua;0
+17600132;true;Оболонский пр-т, 1-Б;17600132;citrus1;satua;400800818
+17600141;true;Майдан Незалежності, 1;17600141;citrus1;satua;0
+17600142;true;Майдан Незалежності, 1;17600142;citrus1;satua;0
+17600151;true;Берковецкая ул.,6Д;17600151;citrus1;satua;400800818
+17600152;true;Берковецкая ул.,6Д;17600152;citrus1;satua;400800818
+17600161;true;Хрещатик вул., 29;17600161;citrus1;satua;400800818
+17600162;true;Хрещатик вул., 29;17600162;citrus1;satua;400800818
+17600181;true;Ген. Ватутина ул., 2;17600181;citrus1;satua;400800818
+17600182;true;Ген. Ватутина ул., 2;17600182;citrus1;satua;400800818
+17600191;true;Александра Мишуги ул., 4;17600191;citrus1;satua;400800818
+17600192;true;Александра Мишуги ул., 4;17600192;citrus1;satua;400800818
+17600211;true;Потьомкінська вул., 65/7;17600211;citrus1;satua;400800818
+17600212;true;Потьомкінська вул., 65/7;17600212;citrus1;satua;400800818
+17600221;true;Центральний пр., 69;17600221;citrus1;satua;400800818
+17600231;true;Адм.Макарова вул.,60А;17600231;citrus1;satua;400800818
+17600232;true;Адм.Макарова вул.,60А;17600232;citrus1;satua;400800818
+17600241;true;Пушкіна вул.,52;17600241;citrus1;satua;400800818
+17600242;true;Пушкіна вул.,52;17600242;citrus1;satua;4,0011E+11
+17600251;true;Суворова вул., 56;17600251;citrus1;satua;400800818
+17600261;true;Мира пр.,  31;17600261;citrus1;satua;400800818
+17600271;true;Мира пр.,  19;17600271;citrus1;satua;4,0013E+11
+17600272;true;Мира пр.,  19;17600272;citrus1;satua;400800818
+17600281;true;Рішельєвська вул., 32;17600281;citrus1;satua;400800818
+17600291;true;Ак. Глушко вул., 16;17600291;citrus1;satua;4,0013E+11
+17600301;true;Ак.Філатова вул., 55;17600301;citrus1;satua;400800818
+17600311;true;Заболотного вул., 52;17600311;citrus1;satua;400800818
+17600312;true;Заболотного вул., 52;17600312;citrus1;satua;400800818
+17600321;true;Академіка Корольова вул., 94;17600321;citrus1;satua;4,0013E+11
+17600331;true;Космонавтів вул., 5;17600331;citrus1;satua;400800818
+17600341;true;Пантелеймонівська вул., 64;17600341;citrus1;satua;400800818
+17600351;true;Пантелеймонівська вул., 88;17600351;citrus1;satua;400800818
+17600361;true;Преображенська вул., 30;17600361;citrus1;satua;400800818
+17600362;true;Преображенська вул., 30;17600362;citrus1;satua;400800818
+17600371;true;Преображенська вул., 42;17600371;citrus1;satua;0
+17600381;true;Добровольського пр., 114;17600381;citrus1;satua;400800818
+17600391;true;Катеринінська вул., 14;17600391;citrus1;satua;400800818
+17600401;true;Маршала Жукова пр-т, 2;17600401;citrus1;satua;400800818
+17600402;true;Маршала Жукова пр-т, 2;17600402;citrus1;satua;400800818
+17600411;true;Пантелеймонівська вул., 21;17600411;citrus1;satua;400800818
+17600412;true;Пантелеймонівська вул., 21;17600412;citrus1;satua;400800818
+17600421;true;Віце-Адм. Жукова вул., 17/19;17600421;citrus1;satua;400800818
+17600422;true;Віце-Адм. Жукова вул., 17/19;17600422;citrus1;satua;400800818
+17600431;true;Аркадийская аллея;17600431;citrus1;satua;400800818
+17600441;true;Костюринський пров., 2;17600441;citrus1;satua;400800818
+17600442;true;Костюринський пров., 2;17600442;citrus1;satua;400800818
+17600451;true;Сумська вул., 17;17600451;citrus1;satua;400800818
+17600452;true;Сумська вул., 17;17600452;citrus1;satua;400800818
+17600461;true;Героїв Труда вул., 7;17600461;citrus1;satua;400800818
+17600462;true;Героїв Труда вул., 7;17600462;citrus1;satua;400800818
+17600471;true;Площа Свободы, 8;17600471;citrus1;satua;400800818
+17600472;true;Площа Свободы, 8;17600472;citrus1;satua;400800818
+17600481;true;Пушкiнська вул., 67/69;17600481;citrus1;satua;400800818
+17600482;true;Пушкiнська вул., 67/69;17600482;citrus1;satua;400800818
+17600501;true;Яворницького пр-т, 55;17600501;citrus1;satua;0
+17600511;true;В. Васильківська вул., 8;17600511;citrus1;satua;0
+17600521;true;Майдан Незалежності, 1;17600521;citrus1;satua;400800818
+17600531;true;Потьомкінська вул., 52;17600531;citrus1;satua;400800818
+17600541;true;Мира пр., 10/60-Н;17600541;citrus1;satua;400800818
+17600551;true;Пантелеймонівська вул., 21;17600551;citrus1;satua;400800818
+17600561;true;Преображенська вул., 27;17600561;citrus1;satua;400800818
+17600571;true;Маразлієвська вул., 1 20;17600571;citrus1;satua;400800818
+17600581;true;Заболотного вул., 52;17600581;citrus1;satua;400800818
+17600591;true;Пушкiнська вул., 36;17600591;citrus1;satua;400800818
+17600601;true;Басейна вул., 5А;17600601;citrus1;satua;400800818
+17600611;true;Сергія Варламова вул., 28;17600611;citrus1;satua;400800818
+17600621;true;Соборная ул., 24;17600621;citrus1;satua;400800818
+17600622;true;Соборная ул., 24;17600622;citrus1;satua;400800818
+17600631;true;Степана Бандеры пр-т, 23;17600631;citrus1;satua;400800818
+17600632;true;Степана Бандеры пр-т, 23;17600632;citrus1;satua;400800818
+17600641;true;Залаегерсег вул., 18;17600641;citrus1;satua;400800818
+17600642;true;Залаегерсег вул., 18;17600642;citrus1;satua;400800818
+17600643;true;Шевченка бульвар 208/1;17600643;citrus1;satua;400800818
+17600644;true;Шевченка бульвар, 208/1;17600644;citrus1;satua;400800818
+17600645;true;вул. Лермонтова, 37/1;17600645;citrus1;satua;400800818
+17600646;true;вул.Лермонтова, 37/1 ;17600646;citrus1;satua;400800818
+17600647;true;Генуезська вул., 5;17600647;citrus1;satua;400800818
+17600648;true;Генуезська вул., 5;17600648;citrus1;satua;400800818
+17600649;true;Ковпака вул., 26;17600649;citrus1;satua;400800818
+17600650;true;Ковпака вул., 26;17600650;citrus1;satua;400800818
+17600651;true;Дніпровська набережна, 10;17600651;citrus1;satua;0
+17600652;true;Дніпровська набережна, 10;17600652;citrus1;satua;400800818
+17600653;true;Соборний проспект, 147;17600653;citrus1;satua;400800818
+17600654;true;Соборний проспект, 147;17600654;citrus1;satua;400800818
+17600655;true;Південна дорога, 1;17600655;citrus1;satua;400800818
+17600656;true;Яворницького пр-т, 58;17600656;citrus1;satua;400800818
+17600657;true;Яворницького пр-т, 58;17600657;citrus1;satua;400800818
+17600658;true;Маршала Жукова пр-т, 2;17600658;citrus1;satua;400800818
+17600659;true;Горького вул., 176;17600659;citrus1;satua;400800818
+17600660;true;600-річчя вул., 17;17600660;citrus1;satua;400800818
+17600661;true;600-річчя вул., 17;17600661;citrus1;satua;400800818
+17600662;true;Давида Ойстраха вул., 32;17600662;citrus1;satua;400800818
+17600663;true;Горкого вул., 176;17600663;citrus1;satua;400800818
+17600664;true;Берковецкая ул.,6Д;17600664;citrus1;satua;400800818
+17600665;true;30-ти річчя Перемоги площа, 1;17600665;citrus1;satua;400800818
+17600666;true;30-ти річчя Перемоги площа, 1;17600666;citrus1;satua;400800818
+17600667;true;Берковецкая ул.,6Д;17600667;citrus1;satua;400800818
+17600668;true;Зіньківська вулиця, 6/1А;17600668;citrus1;satua;0
+17600669;true;Зіньківська вулиця, 6/1А;17600669;citrus1;satua;400800818
+17600670;true;Ушакова пр., 45;17600670;citrus1;satua;400800818
+17600671;true;Ушакова пр., 45;17600671;citrus1;satua;400800818
+17600672;true;77-ї Гвардійської Дивізії вул., 1В;17600672;citrus1;satua;400800818
+17600673;true;77-ї Гвардійської Дивізії вул., 1В;17600673;citrus1;satua;400800818
+17600674;true;Кульпарківська вул., 226а;17600674;citrus1;satua;400800818
+17600675;true;Нижнедніпровська вул., 17;17600675;citrus1;satua;400800818
+17600676;true;Героїв Труда вул., 7;17600676;citrus1;satua;400800818
+17600677;true;Одесский Аэпропорт;17600677;citrus1;satua;400800818
+17600678;true;вул.Генерала Ватутіна, 2;17600678;citrus1;satua;400800818
+17600679;true;Дніпровська набережна, 10;17600679;citrus1;satua;400800818
+17600680;true;ул. Соборная 22;17600680;citrus1;citrus;4,0011E+11
+17600681;true;ул. Соборная 22;17600680;citrus1;citrus;400800818
+17600682;true;Мира пр., 49;17600682;citrus1;citrus;400800818
+17600683;true;Мира пр., 49;17600683;citrus1;citrus;400800818
+17600684;true;Степана Бандери пр-т, 34В;17600684;citrus1;citrus;0
+17600685;true;Степана Бандери пр-т, 34В;17600685;citrus1;citrus;0
+17600686;true;проспект Свободи, будинок, 1/3;17600686;citrus1;citrus;0
+17600687;true;проспект Свободи, будинок, 1/3;17600687;citrus1;citrus;0
+17600688;true;ул. Кульпарківська, 226-А;17600688;citrus1;citrus;0
+17600689;true;ул. Кульпарківська, 226-А;17600689;citrus1;citrus;0
+17600690;true;вул. Пушкінська, 2-А;17600690;citrus1;citrus;0
+17600691;true;вул. Пушкінська, 2-А;17600691;citrus1;citrus;0
+17600692;true;проспект Перемоги, 134/1;17600692;citrus1;citrus;0
+17600693;true;Горького, буд.166/2;17600693;citrus1;citrus;0
+17600694;true;Велика Перспективна, буд. 48;17600694;citrus1;citrus;0
+17600695;true;проспект Перемоги, 134/1;17600695;citrus1;citrus;0
+17600696;true;Горького, буд.166/2;17600696;citrus1;citrus;0
+17600697;true;Велика Перспективна, буд. 48;17600697;citrus1;citrus;0
+17600698;true;проспект Гагаріна, 18;17600698;citrus1;citrus;0
+17600699;true;проспект Гагаріна, 18;17600699;citrus1;citrus;0
+17600700;true;вул Незалежності, 45;17600700;citrus1;citrus;0
+17600701;true;вул Незалежності, 45;17600701;citrus1;citrus;0
+17600702;true;вул. Кільцева дорога, буд. №1;17600702;citrus1;citrus;0
+17600703;true;вул. Кільцева дорога, буд. №1;17600703;citrus1;citrus;0
+17600704;true;пр-т Миру, буд.14;17600704;citrus1;citrus;0
+17600705;true;пр-т Миру, буд.14;17600705;citrus1;citrus;0
+17700011;true;вул. Лесі Українки, буд. 16А;17700011;citycard;citycard;0
+17800011;true;провулок Любарський, буд. 12А;17800011;baylish;baylish;0
+17900011;true;вул. Кирилівська, будинок 14-18, офіс 72;17900011;ssmtel;ssmtel;0
+18000011;true;вул. Святослава Хороброго, будинок 12;18000011;geox;geox;0
+18200011;true;бульвар Шевченка, буд. 51;18200011;paymentsystems;paymentsystems;0
+18300001;true;вул. Педагогічна, 25/48, оф. 6;18300001;fristar;fristar;0
+18400001;true;вул. Шолом-Алейхема, буд. 2А;18400001;anviktrade;anviktrade;0
+18500001;true;33022, Рівенська обл., м. Рівне, вул. Богоявленська, буд. 4, кв. 98;18500001;f5retailgroup;f5retailgroup;0
+18600001;true;пр. Перемоги, буд. 20, оф. 202;18600001;iossystem;iossystem;0
+18700001;true;вул.Соборна,буд. 3, кв.27;18700001;anteres;anteres;0
+18800001;true;вул.Довбиша,буд. 19;18800001;topkorp;topkorp;0
+18900001;true;49044, м. Дніпро, вул Барикадна ,15-А.;;;;
+БЦ «Ступені», корп. 2;18900001;allo;allo;4,0012E+11;;
+18900011;true;Глинки, 2;18900011;allo;allo;4,0014E+11
+18900021;true;ДМИТРА ЯВОРНИЦЬКОГО, 52-А;18900021;allo;allo;4,0014E+11
+18900031;true;СТЕПАНА БАНДЕРИ, 23;18900031;allo;allo;4,0014E+11
+18900041;true;Титова, 36;18900041;allo;allo;4,0014E+11
+18900081;true;СОБОРНИЙ, 218;18900081;allo;allo;4,0014E+11
+18900131;true;Лесі Українки, 24;18900131;allo;allo;4,0014E+11
+18900141;true;Хрещатик, 21, приміщення 125-125-А;18900141;allo;allo;4,0014E+11
+18900151;true;Гагаріна, 8-А;18900151;allo;allo;4,0014E+11
+18900201;true;бульвар Будівельників, 27-А;18900201;allo;allo;4,0014E+11
+18900511;true;Героїв, 3;18900511;allo;allo;4,0014E+11
+18900521;true;Зоряний, 1-А;18900521;allo;allo;4,0014E+11
+18900551;true;Калинова, 9-А;18900551;allo;allo;4,0014E+11
+18900571;true;Кюрі Марії, 5;18900571;allo;allo;4,0014E+11
+18900581;true;проспект Соборний, 83-85/ вул.Поштова, 88-90, 90-А, ;18900581;allo;allo;4,0014E+11
+18900591;true;Правди, 47;18900591;allo;allo;4,0014E+11
+18900611;true;Миколи Бажана, 3-В;18900611;allo;allo;4,0014E+11
+18900621;true;МАЯКОВСЬКОГО, 43/2;18900621;allo;allo;4,0014E+11
+18900631;true;проспект Перемоги, 47-А, приміщення №2;18900631;allo;allo;4,0014E+11
+18900641;true;Велика Васильківська, 72;18900641;allo;allo;4,0014E+11
+18900651;true;Велика Васильківська, 143/2;18900651;allo;allo;4,0014E+11
+18900661;true;Будівельників, 40;18900661;allo;allo;4,0014E+11
+18900671;true;вул.Пушкінська,  2-А;18900671;allo;allo;4,0014E+11
+18900691;true;СОБОРНИЙ, 147;18900691;allo;allo;4,0014E+11
+18900701;true;проспект Науки,  17;18900701;allo;allo;4,0014E+11
+18900741;true;Миколи Лаврухіна, 4;18900741;allo;allo;4,0014E+11
+18900751;true;ГНАТА ХОТКЕВИЧА, 1-В;18900751;allo;allo;4,0014E+11
+18900781;true;Титова, 11;18900781;allo;allo;4,0014E+11
+18900791;true;ДМИТРА ЯВОРНИЦЬКОГО, 117;18900791;allo;allo;4,0014E+11
+18900801;true;Сталеварів, 9-А;18900801;allo;allo;4,0014E+11
+18900811;true;Чарівна, 129-Б;18900811;allo;allo;4,0014E+11
+18900821;true;Малишка Андрія, 3-Д;18900821;allo;allo;4,0014E+11
+18900831;true;Серафимовича, 11;18900831;allo;allo;4,0014E+11
+18900861;true;НЕЗАЛЕЖНОСТІ, 11;18900861;allo;allo;4,0014E+11
+18900881;true;АРХІТЕКТОРА ВЕРБИЦЬКОГО, 1;18900881;allo;allo;4,0014E+11
+18900941;true;Магнітогорська, 1-А;18900941;allo;allo;4,0014E+11
+18900971;true;Велика Кільцева, 4-Ф;18900971;allo;allo;4,0014E+11
+18900981;true;Правди, 58-А;18900981;allo;allo;4,0014E+11
+18901001;true;проспект Свободи, 51;18901001;allo;allo;4,0014E+11
+18901021;true;ЦЕНТРАЛЬНА, 29;18901021;allo;allo;4,0014E+11
+18901101;true;Богдана Хмельницького, 118-Д;18901101;allo;allo;4,0014E+11
+18901181;true;територія Слобожанської селищної ради, комплекс будівель та споруд № 17, перший пусковий комплекс;18901181;allo;allo;4,0014E+11
+18901211;true;вул.Полтавський шлях, буд. 152;18901211;allo;allo;4,0014E+11
+18901271;true;Богдана Хмельницького, 22;18901271;allo;allo;4,0014E+11
+18901361;true;СОБОРНИЙ, 42, літ. А5, А1, А2;18901361;allo;allo;4,0014E+11
+18901381;true;Соборності, 2/1-А;18901381;allo;allo;4,0014E+11
+18901511;true;Вокзальна, 13;18901511;allo;allo;4,0014E+11
+18901521;true;Північнокільцева, 10-А;18901521;allo;allo;4,0014E+11
+18901541;true;ПОВІТРОФЛОТСЬКИЙ, 50/2;18901541;allo;allo;4,0014E+11
+18901561;true;Запорізька, 1-Б;18901561;allo;allo;4,0014E+11
+18901571;true;20-річчя Перемоги, 22-В;18901571;allo;allo;4,0014E+11
+18901591;true;КИЇВСЬКИЙ ШЛЯХ, 2/6;18901591;allo;allo;4,0014E+11
+18902091;true;Юрія Іллєнка, 1–Ц;18902091;allo;allo;4,0014E+11
+18902141;true;вул.Юрія Кондратюка, 2;18902141;allo;allo;4,0014E+11
+18902151;true;вул.Сумська, 39;18902151;allo;allo;4,0014E+11
+19200001;true;вул Богоявленська, буд. 4, кв. 98;19200001;vestgroup;vestgroup;0
+19300001;true;вул. Антона Цедіка, буд. 10-А;19300001;dastrialltd;dastrialltd;0
+19400001;true;пр. Соборний, буд. 15, оф.624/2;19400001;softtelekom;softtelekom;0
+19600001;true;вул. Паркова, буд. 4, кв. 19;19600001;komunikeyshin;komunikeyshin;0
+19700001;true;вул. Дмитріввська, буд. 9-11;19700001;mediateh;mediateh;0
+19800001;true;вул. Вільямса Академіка, буд. 6-Д, оф. 43;19800001;goodteam;goodteam;0
+19900001;true;вул. Пушкінська, буд. 79/1;19900001;hameleon;hameleon;0
+20000001;true;вул. Анни Ахматової, буд. 5, поверх 1;20000001;akvared;akvared;0
+20000002;true;вул. Анни Ахматової, буд.5, поверх 1;20000002;akvared;akvared;4,0014E+11
+20100001;true;вул. Івана Кудрі, буд. 39, офіс 7;20100001;acca2020;acca;0
+20200001;true;вул. Терьохіна, буд. 8-А, офіс 3;20200001;mobidim;mobidim;0
+20300001;true;Київ;20300001;denkaua;denka;4,0014E+12
+20300011;true;Лугова, 20;20300011;denkaua;denka;4,0014E+11
+20400001;true;вул.Гагаріна, буд. 2;20400001;retailcom;retailcom;0
+20500001;true;вул.Лісопильна, буд. 10;20500001;unicomprodject;unicomprodject;0
+20600001;true;вул. Руденко Лариси, буд. 6-А, офіс 58;20600001;connecttelecom;connecttelecom;0
+20700001;true;вул. Сєченова, будинок 7, приміщення 59;20700001;poshtaua;poshtaua;0
+20800001;true;вул. Червоноткацька, буд. 61, корп. 57;20800001;paysystem;paysystem;0
+20900001;true;вул Тираспольська, 27;20900001;kartmaster;kartmaster;0
+21000001;true;вул. Тростянецька, будинок 6-Г;21000001;avdlogistic;avdlogistic;0
+21100001;true;вул. Абхазька, буд. 2;21100001;kroperstorg;kroperstorg;0
+21200001;true;вул. Ударників, 30;21200001;merkurii;merkurii;0
+50000011;true;01001, м.Київ, вул. Хрещатик, 22;50000011;ukrposhta;Ukrposhta;0
+50001032;true;вул. Саксаганського, 88;1032;ukrposhta;Ukrposhta;0
+50001927;true;вул. Хрещатик, 22;1927;ukrposhta;Ukrposhta;0
+50002068;true;вул. Ревуцького,  16А;2068;ukrposhta;Ukrposhta;0
+50002090;true;вул. Празька, 31;2090;ukrposhta;Ukrposhta;0
+50002095;true; вул. Срібнокільська, 24;2095;ukrposhta;Ukrposhta;0
+50002100;true; вул. Будівельників,  32/2;2100;ukrposhta;Ukrposhta;0
+50002105;true;просп. Соборності, 6;2105;ukrposhta;Ukrposhta;0
+50002125;true;бульв. Перова, 24;2125;ukrposhta;Ukrposhta;0
+50002139;true; бульв. Перова,  38/1;2139;ukrposhta;Ukrposhta;0
+50002152;true;вул. Миколайчука Івана,  13А;2152;ukrposhta;Ukrposhta;0
+50002156;true;вул. Шолом-Алейхема, 18;2156;ukrposhta;Ukrposhta;0
+50002192;true;бульв. Дарницький, 23;2192;ukrposhta;Ukrposhta;0
+50002217;true;вул. Драйзера Теодора, 6;2217;ukrposhta;Ukrposhta;0
+50002225;true;просп. Маяковського Володимира, 15;2225;ukrposhta;Ukrposhta;0
+50003039;true; просп. Науки, 4;3039;ukrposhta;Ukrposhta;0
+50003057;true;просп. Перемоги, 45;3057;ukrposhta;Ukrposhta;0
+50003067;true;вул. Гарматна,  33/1;3067;ukrposhta;Ukrposhta;0
+50003113;true;вул. Табірна, 46/48;3113;ukrposhta;Ukrposhta;0
+50003115;true; просп. Перемоги,  128/2;3115;ukrposhta;Ukrposhta;0
+50003126;true;бульв. Гавела Вацлава, 87;3126;ukrposhta;Ukrposhta;0
+50003148;true;вул. Юри Гната,  7А;3148;ukrposhta;Ukrposhta;0
+50003187;true;вул. Заболотного Академіка, 20А;3187;ukrposhta;Ukrposhta;0
+50003191;true; вул. Лятошинського композитора, 4;3191;ukrposhta;Ukrposhta;0
+50004050;true;вул. Юрія Іллєнка, 6;4050;ukrposhta;Ukrposhta;0
+50004086;true;вул. Теліги Олени, 41;4086;ukrposhta;Ukrposhta;0
+50004108;true;просп. Свободи,  2А;4108;ukrposhta;Ukrposhta;0
+50004111;true;вул. Щербаківського Данила, 60;4111;ukrposhta;Ukrposhta;0
+50004112;true;вул. Парково-Сирецька, 11;4112;ukrposhta;Ukrposhta;0
+50004116;true;вул. Богдана Гаврилишина, 18;4116;ukrposhta;Ukrposhta;0
+50004119;true;вул. Деревлянська, 21;4119;ukrposhta;Ukrposhta;0
+50004123;true;вул. Червонопільська,  13/16;4123;ukrposhta;Ukrposhta;0
+50004128;true;вул. Туполєва академіка, 28;4128;ukrposhta;Ukrposhta;0
+50004136;true;вул. Івана Виговського, 14;4136;ukrposhta;Ukrposhta;0
+50004208;true; просп. Правди, 92;4208;ukrposhta;Ukrposhta;0
+50004214;true;вул. Героїв Дніпра, 53;4214;ukrposhta;Ukrposhta;0
+50007201;true;вул. Івана Проскури, 56;7201;ukrposhta;Ukrposhta;0
+50007301;true; пл. Шевченка, 2;7301;ukrposhta;Ukrposhta;0
+50007403;true; вул. Володимира Великого, 4;7403;ukrposhta;Ukrposhta;0
+50007405;true;вул. Київська,  243А;7405;ukrposhta;Ukrposhta;0
+50007801;true;вул. Центральна, 240;7801;ukrposhta;Ukrposhta;0
+50008001;true;вул. Димитрія Ростовського, 38;8001;ukrposhta;Ukrposhta;0
+50008138;true;вул. Миру, 27;8138;ukrposhta;Ukrposhta;0
+50008150;true; пров. Олеся Ткаченка,  26А;8150;ukrposhta;Ukrposhta;0
+50008156;true;вул. Яблунева,  5-Б;8156;ukrposhta;Ukrposhta;0
+50008202;true; вул. Миру, 10;8202;ukrposhta;Ukrposhta;0
+50008203;true;вул. Котляревського,  54А;8203;ukrposhta;Ukrposhta;0
+50008205;true; вул. Соборна, 98;8205;ukrposhta;Ukrposhta;0
+50008292;true; вул. Миколи Островського, 20;8292;ukrposhta;Ukrposhta;0
+50008400;true;вул. Богдана Хмельницького, 49;8400;ukrposhta;Ukrposhta;0
+50008601;true; вул. Грушевського, 13;8601;ukrposhta;Ukrposhta;0
+50008606;true; містечко Військове №11, 9;8606;ukrposhta;Ukrposhta;0
+50008703;true; вул. Київська, 152;8703;ukrposhta;Ukrposhta;0
+50008746;true;вул. Київська,  1В;8746;ukrposhta;Ukrposhta;0
+50009001;true;вул. Небесної Сотні, 17;9001;ukrposhta;Ukrposhta;0
+50009107;true; вул. Ярослава Мудрого,  62А;9107;ukrposhta;Ukrposhta;0
+50009112;true; вул. Привокзальна,  32А;9112;ukrposhta;Ukrposhta;0
+50009113;true;вул. Турчанінова, 11;9113;ukrposhta;Ukrposhta;0
+50009117;true; вул. Хмельницького Богдана, 21-А;9117;ukrposhta;Ukrposhta;0
+50009119;true; вул. Василя Стуса,  2/147;9119;ukrposhta;Ukrposhta;0
+50009501;true;вул. Шевченка, 37;9501;ukrposhta;Ukrposhta;0
+50009701;true;вул. Миколаївська, 24;9701;ukrposhta;Ukrposhta;0
+50009801;true;вул. Цвіткова, 6;9801;ukrposhta;Ukrposhta;0
+50010001;true;вул. Вокзальна, 6;10001;ukrposhta;Ukrposhta;0
+50010002;true;вул. Велика Бердичівська, 69;10002;ukrposhta;Ukrposhta;0
+50010003;true; пл. Короленка, 4;10003;ukrposhta;Ukrposhta;0
+50010004;true; просп. Миру, 61/2;10004;ukrposhta;Ukrposhta;0
+50010014;true; вул. Київська, 20;10014;ukrposhta;Ukrposhta;0
+50010020;true; просп. Миру, 4;10020;ukrposhta;Ukrposhta;0
+50010029;true; вул. Хлібна, 28;10029;ukrposhta;Ukrposhta;0
+50010031;true; вул. Покровська, 139;10031;ukrposhta;Ukrposhta;0
+50011101;true;вул. Гетьмана Виговського, 4;11101;ukrposhta;Ukrposhta;0
+50012501;true;вул. Святотроїцька, 4;12501;ukrposhta;Ukrposhta;0
+50013201;true;вул. Героїв Майдану, 93;13201;ukrposhta;Ukrposhta;0
+50013301;true; вул. Вінницька,  28/1;13301;ukrposhta;Ukrposhta;0
+50014029;true; вул. Волковича, 15;14029;ukrposhta;Ukrposhta;0
+50014032;true; вул. Доценка, 25А;14032;ukrposhta;Ukrposhta;0
+50014035;true; вул. Доценка, 2;14035;ukrposhta;Ukrposhta;0
+50015300;true; вул. Шевченка, 72;15300;ukrposhta;Ukrposhta;0
+50015600;true; вул. Героїв АТО, 9;15600;ukrposhta;Ukrposhta;0
+50016400;true;вул. Панталеймона Куліша, 100;16400;ukrposhta;Ukrposhta;0
+50016604;true;вул. Об'їжджа, 106А;16604;ukrposhta;Ukrposhta;0
+50016608;true; вул. Березанська,  8Б;16608;ukrposhta;Ukrposhta;0
+50017507;true; вул. Київська, 313;17507;ukrposhta;Ukrposhta;0
+50017510;true; вул. Ярмаркова, 53;17510;ukrposhta;Ukrposhta;0
+50018001;true; вул. Байди Вишневецького, 34;18001;ukrposhta;Ukrposhta;0
+50018021;true; вул. Гагаріна, 71;18021;ukrposhta;Ukrposhta;0
+50018028;true;вул. Самійла Кішки, 189;18028;ukrposhta;Ukrposhta;0
+50019003;true;вул. Торгова, 16;19003;ukrposhta;Ukrposhta;0
+50020001;true;вул. Соборна, 49;20001;ukrposhta;Ukrposhta;0
+50020302;true; вул. Мазепи, 3;20302;ukrposhta;Ukrposhta;0
+50020702;true;вул. Незалежності, 92;20702;ukrposhta;Ukrposhta;0
+50021001;true; просп. Коцюбинського, 30;21001;ukrposhta;Ukrposhta;0
+50021032;true; вул. Київська, 50;21032;ukrposhta;Ukrposhta;0
+50021050;true;вул. Соборна, 8;21050;ukrposhta;Ukrposhta;0
+50022100;true;вул. Незалежності, 39;22100;ukrposhta;Ukrposhta;0
+50022800;true;вул. Шевченка, 25;22800;ukrposhta;Ukrposhta;0
+50024321;true;вул. Кравчика, 2;24321;ukrposhta;Ukrposhta;0
+50025001;true;вул. Соборна,  22 Б;25001;ukrposhta;Ukrposhta;0
+50025009;true;вул. Комарова, 44;25009;ukrposhta;Ukrposhta;0
+50025011;true;вул. Галушкіна, 118;25011;ukrposhta;Ukrposhta;0
+50025014;true;вул. Степняка-Кравчинського, 1;25014;ukrposhta;Ukrposhta;0
+50026500;true; вул. Соборна, 39;26500;ukrposhta;Ukrposhta;0
+50027100;true; вул. Соборна,  53/14;27100;ukrposhta;Ukrposhta;0
+50027200;true;вул. Незалежності, 111;27200;ukrposhta;Ukrposhta;0
+50027500;true;вул. Ювілейна, 9;27500;ukrposhta;Ukrposhta;0
+50028000;true;просп. Соборний, 60;28000;ukrposhta;Ukrposhta;0
+50028009;true; вул. Сидоренко, 6;28009;ukrposhta;Ukrposhta;0
+50029007;true;вул. Проскурівська, 90;29007;ukrposhta;Ukrposhta;0
+50029008;true;вул. Кам'янецька, 109;29008;ukrposhta;Ukrposhta;0
+50029013;true;вул. Соборна, 16;29013;ukrposhta;Ukrposhta;0
+50029016;true;вул. Інститутська, 22;29016;ukrposhta;Ukrposhta;0
+50029017;true; вул. Свободи, 13А;29017;ukrposhta;Ukrposhta;0
+50029027;true;вул. Залізняка, 8;29027;ukrposhta;Ukrposhta;0
+50030300;true;вул. Незалежності, 6;30300;ukrposhta;Ukrposhta;0
+50030501;true;вул. Лесі Українки, 112;30501;ukrposhta;Ukrposhta;0
+50031100;true;вул. Грушевського, 14;31100;ukrposhta;Ukrposhta;0
+50032200;true;вул. Миру, 15;32200;ukrposhta;Ukrposhta;0
+50033016;true;вул. Євгена Коновальця, 5;33016;ukrposhta;Ukrposhta;0
+50033023;true; вул. Київська, 8;33023;ukrposhta;Ukrposhta;0
+50033024;true;вул. Князя Острозького,  4/6;33024;ukrposhta;Ukrposhta;0
+50033027;true;вул. Київська, 12;33027;ukrposhta;Ukrposhta;0
+50034503;true;вул. Широка, 33;34503;ukrposhta;Ukrposhta;0
+50034600;true;вул. Андріївська, 24;34600;ukrposhta;Ukrposhta;0
+50035000;true;вул. Михайла Грушевського, 34;35000;ukrposhta;Ukrposhta;0
+50035500;true;вул. Олександра Невського, 1;35500;ukrposhta;Ukrposhta;0
+50035800;true;просп. Незалежності, 7;35800;ukrposhta;Ukrposhta;0
+50036007;true; вул. Маршала Бірюзова, 60;36007;ukrposhta;Ukrposhta;0
+50036040;true;вул. Героїв Сталінграду, 30;36040;ukrposhta;Ukrposhta;0
+50037300;true;вул. Полтавська, 22;37300;ukrposhta;Ukrposhta;0
+50037502;true;просп. Володимирський, 93;37502;ukrposhta;Ukrposhta;0
+50039601;true;просп. Свободи, 18;39601;ukrposhta;Ukrposhta;0
+50039610;true;просп. Лесі Українки, 10 А;39610;ukrposhta;Ukrposhta;0
+50039625;true; вул. Республіканська, 95;39625;ukrposhta;Ukrposhta;0
+50040004;true;вул. Металургів, 2;40004;ukrposhta;Ukrposhta;0
+50040007;true;вул. Богуна, 16;40007;ukrposhta;Ukrposhta;0
+50040014;true; вул. Петропавлівська, 93;40014;ukrposhta;Ukrposhta;0
+50040035;true; вул. Івана Сірка,  7/2;40035;ukrposhta;Ukrposhta;0
+50041100;true;вул. Садовий бульвар, 7;41100;ukrposhta;Ukrposhta;0
+50041615;true;просп. Миру, 4;41615;ukrposhta;Ukrposhta;0
+50042000;true; вул. Соборна, 17;42000;ukrposhta;Ukrposhta;0
+50042703;true;вул. Незалежності, 21;42703;ukrposhta;Ukrposhta;0
+50043005;true;вул. Привокзальна, 1;43005;ukrposhta;Ukrposhta;0
+50043024;true;просп. Соборності, 11А;43024;ukrposhta;Ukrposhta;0
+50043026;true;вул. Гордіюк, 35;43026;ukrposhta;Ukrposhta;0
+50044501;true;вул. Шевченка, 3;44501;ukrposhta;Ukrposhta;0
+50045001;true; вул. Сагайдачного,  6Б;45001;ukrposhta;Ukrposhta;0
+50045008;true; вул. Незалежності, 84;45008;ukrposhta;Ukrposhta;0
+50046007;true;просп. Злуки, 7;46007;ukrposhta;Ukrposhta;0
+50046011;true;вул. Слівенська, 15;46011;ukrposhta;Ukrposhta;0
+50046020;true; вул. Коновальця, 8;46020;ukrposhta;Ukrposhta;0
+50046024;true;просп. Злуки, 45;46024;ukrposhta;Ukrposhta;0
+50046027;true;вул. Просвіти, 6;46027;ukrposhta;Ukrposhta;0
+50047003;true; вул. Шевченка, 60;47003;ukrposhta;Ukrposhta;0
+50047302;true; майдан Івана Франка, 10;47302;ukrposhta;Ukrposhta;0
+50048101;true;вул. Князя Василька,  110А;48101;ukrposhta;Ukrposhta;0
+50048501;true; вул. Степана Бандери, 38;48501;ukrposhta;Ukrposhta;0
+50049008;true; вул. Робоча, 69;49008;ukrposhta;Ukrposhta;0
+50049033;true;вул. 152-ї дивізії, 6;49033;ukrposhta;Ukrposhta;0
+50049040;true;жилий масив Тополя-1, 18;49040;ukrposhta;Ukrposhta;0
+50049041;true;шосе Запорізьке, 74;49041;ukrposhta;Ukrposhta;0
+50049064;true;просп. Івана Мазепи,  2А;49064;ukrposhta;Ukrposhta;0
+50049080;true; шосе Донецьке, 7;49080;ukrposhta;Ukrposhta;0
+50049081;true; просп. Слобожанський, 2;49081;ukrposhta;Ukrposhta;0
+50049087;true;вул. Калинова, 53;49087;ukrposhta;Ukrposhta;0
+50049098;true;пров. Любарського, 14;49098;ukrposhta;Ukrposhta;0
+50049125;true;вул. Марії Лисиченко, 17;49125;ukrposhta;Ukrposhta;0
+50049130;true; просп. Миру, 16;49130;ukrposhta;Ukrposhta;0
+50050002;true;вул. Лермонтова, 18;50002;ukrposhta;Ukrposhta;0
+50050026;true; просп. Південний, 20;50026;ukrposhta;Ukrposhta;0
+50050027;true;просп. Металургів, 23;50027;ukrposhta;Ukrposhta;0
+50050036;true; пл. Володимира Великого , 1;50036;ukrposhta;Ukrposhta;0
+50050042;true;вул. Покровська, 3;50042;ukrposhta;Ukrposhta;0
+50050086;true;просп. Гагаріна, 63;50086;ukrposhta;Ukrposhta;0
+50050089;true;вул. Адмірала Головка, 40;50089;ukrposhta;Ukrposhta;0
+50050102;true;вул. Недєліна,  49А;50102;ukrposhta;Ukrposhta;0
+50051404;true;вул. Дніпровська, 16;51404;ukrposhta;Ukrposhta;0
+50051413;true;вул. Кравченко, 4;51413;ukrposhta;Ukrposhta;0
+50051500;true;вул. Курська, 12;51500;ukrposhta;Ukrposhta;0
+50051700;true;бульв. Миру,  12А;51700;ukrposhta;Ukrposhta;0
+50051909;true;просп. Конституції, 54А;51909;ukrposhta;Ukrposhta;0
+50051917;true; просп. Свободи, 62;51917;ukrposhta;Ukrposhta;0
+50051928;true; вул. Воїнів Афганців,  1А;51928;ukrposhta;Ukrposhta;0
+50051931;true;вул. Ковалевича,  2А;51931;ukrposhta;Ukrposhta;0
+50051938;true; вул. Аношкіна, 144;51938;ukrposhta;Ukrposhta;0
+50052210;true;вул. 8 Березня, 2;52210;ukrposhta;Ukrposhta;0
+50052500;true; вул. Богми, 4;52500;ukrposhta;Ukrposhta;0
+50053200;true;вул. Патріотів України, 113А;53200;ukrposhta;Ukrposhta;0
+50053201;true; просп. Трубників, 40;53201;ukrposhta;Ukrposhta;0
+50053219;true; вул. Шевченка, 243;53219;ukrposhta;Ukrposhta;0
+50053303;true;вул. Центральна, 50;53303;ukrposhta;Ukrposhta;0
+50053600;true;вул. Центральна, 22;53600;ukrposhta;Ukrposhta;0
+50054003;true;просп. Центральний, 184;54003;ukrposhta;Ukrposhta;0
+50054031;true;вул. Першотравнева, 111;54031;ukrposhta;Ukrposhta;0
+50054050;true; просп. Богоявленський, 316;54050;ukrposhta;Ukrposhta;0
+50054052;true;просп. Богоявленський,  325/1;54052;ukrposhta;Ukrposhta;0
+50054058;true; вул. Озерна, 11;54058;ukrposhta;Ukrposhta;0
+50055001;true;просп. Незалежності, 3;55001;ukrposhta;Ukrposhta;0
+50056101;true; вул. Героїв Небесної Сотні, 36;56101;ukrposhta;Ukrposhta;0
+50058008;true;вул. Гагаріна Юрія, 36А;58008;ukrposhta;Ukrposhta;0
+50058018;true;вул. Комарова Володимира, 2;58018;ukrposhta;Ukrposhta;0
+50059200;true; вул. Українська, 27;59200;ukrposhta;Ukrposhta;0
+50060100;true; вул. Бесарабська,  34А;60100;ukrposhta;Ukrposhta;0
+50061001;true;вул. Молочна, 6;61001;ukrposhta;Ukrposhta;0
+50061002;true;вул. Чернишевська, 28;61002;ukrposhta;Ukrposhta;0
+50061003;true; пров. Подільський, 15;61003;ukrposhta;Ukrposhta;0
+50061007;true;вул. Миру, 20;61007;ukrposhta;Ukrposhta;0
+50061011;true; вул. Червоні Ряди, 16;61011;ukrposhta;Ukrposhta;0
+50061013;true; вул. Шевченка, 165;61013;ukrposhta;Ukrposhta;0
+50061072;true;просп. Науки, 54;61072;ukrposhta;Ukrposhta;0
+50061091;true;вул. Харківських Дивізій, 20;61091;ukrposhta;Ukrposhta;0
+50061099;true;вул. Рибалка, 40;61099;ukrposhta;Ukrposhta;0
+50061105;true;вул. Ньютона, 6А;61105;ukrposhta;Ukrposhta;0
+50061124;true;просп. Гагаріна, 173В;61124;ukrposhta;Ukrposhta;0
+50061135;true;вул. Гвардійців-Широнінців, 44;61135;ukrposhta;Ukrposhta;0
+50061140;true;просп. Гагаріна, 72;61140;ukrposhta;Ukrposhta;0
+50061145;true;вул. Новгородська, 2;61145;ukrposhta;Ukrposhta;0
+50061206;true; ул. Академика Павлова, 158 К2;61206;ukrposhta;Ukrposhta;0
+50062103;true; пл. Поштова, 5;62103;ukrposhta;Ukrposhta;0
+50062303;true; пл. Перемоги, 20;62303;ukrposhta;Ukrposhta;0
+50063301;true; м-р 3-й, 13;63301;ukrposhta;Ukrposhta;0
+50063503;true;вул. Харківська, 118;63503;ukrposhta;Ukrposhta;0
+50063701;true; вул. Сватівська,  2А;63701;ukrposhta;Ukrposhta;0
+50063734;true;вул. Ківшарівка, 13;63734;ukrposhta;Ukrposhta;0
+50064102;true; м-р 1/2-й,  старий громадський центр;64102;ukrposhta;Ukrposhta;0
+50064207;true;пров. Серпухівський, 1;64207;ukrposhta;Ukrposhta;0
+50064303;true; вул. Московська, 35;64303;ukrposhta;Ukrposhta;0
+50064604;true; м-р мікрорайон 1, 28;64604;ukrposhta;Ukrposhta;0
+50065005;true; вул. Болгарська, 39;65005;ukrposhta;Ukrposhta;0
+50065016;true;вул. Фонтанська дорога, 121;65016;ukrposhta;Ukrposhta;0
+50065023;true; вул. Новосельського, 69/71;65023;ukrposhta;Ukrposhta;0
+50065025;true; вул. Давида Ойстраха, 7;65025;ukrposhta;Ukrposhta;0
+50065069;true; вул. Героїв оборони Одеси, 60;65069;ukrposhta;Ukrposhta;0
+50065111;true;просп. Добровольського, 159;65111;ukrposhta;Ukrposhta;0
+50065481;true; вул. Григорівського десанту, 16;65481;ukrposhta;Ukrposhta;0
+50066302;true; вул. Соборна, 72;66302;ukrposhta;Ukrposhta;0
+50067400;true; вул. Незалежності, 5;67400;ukrposhta;Ukrposhta;0
+50068001;true; просп. Миру, 1;68001;ukrposhta;Ukrposhta;0
+50068003;true;просп. Миру, 30;68003;ukrposhta;Ukrposhta;0
+50068702;true; вул. Інзовська, 189;68702;ukrposhta;Ukrposhta;0
+50069005;true;просп. Соборний, 133;69005;ukrposhta;Ukrposhta;0
+50069006;true;просп. Соборний, 230;69006;ukrposhta;Ukrposhta;0
+50069035;true; просп. Соборний, 186;69035;ukrposhta;Ukrposhta;0
+50069068;true;просп. Моторобудівників,  64А;69068;ukrposhta;Ukrposhta;0
+50069093;true;вул. Зестафонська, 18;69093;ukrposhta;Ukrposhta;0
+50069095;true;просп. Соборний, 144;69095;ukrposhta;Ukrposhta;0
+50069096;true;вул. Ладозька, 8;69096;ukrposhta;Ukrposhta;0
+50069097;true; вул. Ентузіастів, 1;69097;ukrposhta;Ukrposhta;0
+50069098;true; вул. Чарівна, 159;69098;ukrposhta;Ukrposhta;0
+50069104;true; вул. Чумаченка, 34;69104;ukrposhta;Ukrposhta;0
+50069123;true; бульв. Будівельників, 5;69123;ukrposhta;Ukrposhta;0
+50070608;true; вул. Єдності, 29;70608;ukrposhta;Ukrposhta;0
+50071103;true; вул. Свободи,  27Б;71103;ukrposhta;Ukrposhta;0
+50071118;true; вул. Університетська, 43;71118;ukrposhta;Ukrposhta;0
+50071503;true; просп. Будівельників, 27;71503;ukrposhta;Ukrposhta;0
+50071601;true; бульв. Центральний, 3;71601;ukrposhta;Ukrposhta;0
+50072102;true;вул. Соборна, 80;72102;ukrposhta;Ukrposhta;0
+50072309;true;просп. Хмельницького Богдана, 48;72309;ukrposhta;Ukrposhta;0
+50072312;true;вул. Університетська, 14;72312;ukrposhta;Ukrposhta;0
+50072318;true;просп. 50-річчя Перемоги, 49;72318;ukrposhta;Ukrposhta;0
+50072319;true; вул. Героїв України,  53А;72319;ukrposhta;Ukrposhta;0
+50073003;true;просп. Ушакова, 41;73003;ukrposhta;Ukrposhta;0
+50073020;true;вул. Лавреньова, 11;73020;ukrposhta;Ukrposhta;0
+50073025;true;вул. Театральна, 54;73025;ukrposhta;Ukrposhta;0
+50073028;true;вул. Миру, 24;73028;ukrposhta;Ukrposhta;0
+50073034;true;просп. 200-річчя Херсона, 16;73034;ukrposhta;Ukrposhta;0
+50073039;true; просп. 200-річчя Херсону, 43;73039;ukrposhta;Ukrposhta;0
+50074800;true; вул. Велика Куликовська, 91;74800;ukrposhta;Ukrposhta;0
+50074900;true;вул. Першотравнева, 29;74900;ukrposhta;Ukrposhta;0
+50075000;true;вул. Свободи, 92;75000;ukrposhta;Ukrposhta;0
+50075100;true;вул. Гвардійська, 28;75100;ukrposhta;Ukrposhta;0
+50075500;true; вул. Центральна, 2;75500;ukrposhta;Ukrposhta;0
+50075600;true;вул. 1-го Травня, 35;75600;ukrposhta;Ukrposhta;0
+50075700;true; вул. Гагаріна, 59;75700;ukrposhta;Ukrposhta;0
+50076006;true;вул. Василя Симоненка, 1;76006;ukrposhta;Ukrposhta;0
+50076008;true;вул. Галицька,  124 А;76008;ukrposhta;Ukrposhta;0
+50076019;true; бульв. Північний, 3;76019;ukrposhta;Ukrposhta;0
+50077111;true;вул. Січових Стрільців, 29;77111;ukrposhta;Ukrposhta;0
+50077503;true;вул. Міцкевича, 69;77503;ukrposhta;Ukrposhta;0
+50078103;true;вул. Шевченка, 66;78103;ukrposhta;Ukrposhta;0
+50078208;true; вул. Богуна, 34;78208;ukrposhta;Ukrposhta;0
+50078601;true; вул. Незалежності, 75;78601;ukrposhta;Ukrposhta;0
+50078701;true; вул. Франка, 6;78701;ukrposhta;Ukrposhta;0
+50079005;true;вул. Мартовича, 2;79005;ukrposhta;Ukrposhta;0
+50079008;true;вул. Валова, 14;79008;ukrposhta;Ukrposhta;0
+50079037;true; вул. Богдана Хмельницького, 257;79037;ukrposhta;Ukrposhta;0
+50079049;true; просп. Червоної Калини, 113;79049;ukrposhta;Ukrposhta;0
+50079052;true;вул. Низинна, 5;79052;ukrposhta;Ukrposhta;0
+50079070;true; вул. Довженка, 6;79070;ukrposhta;Ukrposhta;0
+50080300;true; вул. Воїнів УПА, 3;80300;ukrposhta;Ukrposhta;0
+50080400;true;вул. Незалежності, 41;80400;ukrposhta;Ukrposhta;0
+50080700;true; вул. Пушкіна, 7;80700;ukrposhta;Ukrposhta;0
+50081400;true; вул. Конюшкевича, 1;81400;ukrposhta;Ukrposhta;0
+50081500;true;вул. Львівська, 16;81500;ukrposhta;Ukrposhta;0
+50081652;true;вул. Тараса Шевченка, 30;81652;ukrposhta;Ukrposhta;0
+50082100;true;вул. Данила Галицького, 21;82100;ukrposhta;Ukrposhta;0
+50082107;true;вул. Грушевського, 17;82107;ukrposhta;Ukrposhta;0
+50082172;true;вул. Тараса Шевченка, 1;82172;ukrposhta;Ukrposhta;0
+50082300;true; вул. Данила Галицького, 32;82300;ukrposhta;Ukrposhta;0
+50082408;true;вул. Січових Стрільців, 10;82408;ukrposhta;Ukrposhta;0
+50084109;true;вул. Комяхова, 42;84109;ukrposhta;Ukrposhta;0
+50084122;true; вул. Свободи, 1;84122;ukrposhta;Ukrposhta;0
+50084205;true; вул. Соборна, 20;84205;ukrposhta;Ukrposhta;0
+50084302;true; вул. Шкільна, 6;84302;ukrposhta;Ukrposhta;0
+50084307;true; вул. Центральна, 1;84307;ukrposhta;Ukrposhta;0
+50084313;true; вул. Академічна, 60;84313;ukrposhta;Ukrposhta;0
+50084331;true;вул. Марії Приймаченко, 19;84331;ukrposhta;Ukrposhta;0
+50084401;true; вул. Пушкіна,  3А;84401;ukrposhta;Ukrposhta;0
+50084506;true; вул. Чайковського, 32;84506;ukrposhta;Ukrposhta;0
+50084510;true;вул. Ювілейна, 89;84510;ukrposhta;Ukrposhta;0
+50085001;true;вул. Гагаріна, 38;85001;ukrposhta;Ukrposhta;0
+50085013;true; пров. Пушкіна, 6;85013;ukrposhta;Ukrposhta;0
+50085113;true; вул. Європейська, 65;85113;ukrposhta;Ukrposhta;0
+50085114;true;вул. Правобережна, 256;85114;ukrposhta;Ukrposhta;0
+50085302;true;вул. Кальміуська, 158;85302;ukrposhta;Ukrposhta;0
+50085307;true; м-р Шахтарський,  24в;85307;ukrposhta;Ukrposhta;0
+50085323;true; вул. Соборна, 28;85323;ukrposhta;Ukrposhta;0
+50085612;true; вул. Побєди, 12;85612;ukrposhta;Ukrposhta;0
+50085700;true; вул. Кості Бабіна, 4;85700;ukrposhta;Ukrposhta;0
+50087516;true; бульв. Меотиди, 40/41;87516;ukrposhta;Ukrposhta;0
+50087524;true; просп. Металургів, 166/1;87524;ukrposhta;Ukrposhta;0
+50087541;true;бульв. Морський, 42;87541;ukrposhta;Ukrposhta;0
+50087548;true; просп. Миру, 108;87548;ukrposhta;Ukrposhta;0
+50087554;true; просп. Будівельників, 166;87554;ukrposhta;Ukrposhta;0
+50087557;true;вул. Олімпійська, 175;87557;ukrposhta;Ukrposhta;0
+50088006;true; вул. Юрія Гагаріна, 26 Б;88006;ukrposhta;Ukrposhta;0
+50088017;true; вул. Добролюбова Миколи, 6;88017;ukrposhta;Ukrposhta;0
+50089300;true;вул. Шевченка, 1;89300;ukrposhta;Ukrposhta;0
+50089607;true; вул. Росвигівська, 30;89607;ukrposhta;Ukrposhta;0
+50090100;true; вул. Шевченка, 32;90100;ukrposhta;Ukrposhta;0
+50090202;true; пл. Ракоці Ференца, 2;90202;ukrposhta;Ukrposhta;0
+50090300;true; вул. Миру, 41;90300;ukrposhta;Ukrposhta;0
+50090400;true;вул. Корятовича, 10;90400;ukrposhta;Ukrposhta;0
+50090500;true; вул. Незалежності, 28;90500;ukrposhta;Ukrposhta;0
+50090600;true; вул. Миру, 46;90600;ukrposhta;Ukrposhta;0
+50092601;true; просп. Гвардійський, 22;92601;ukrposhta;Ukrposhta;0
+50092704;true; кв-л Ватутіна, 53;92704;ukrposhta;Ukrposhta;0
+50093012;true;вул. Володимирська, 39А;93012;ukrposhta;Ukrposhta;0
+50093100;true; вул. ім.М.Грушевського, 14;93100;ukrposhta;Ukrposhta;0
+50093105;true;вул. Мира, 3;93105;ukrposhta;Ukrposhta;0
+50093106;true; вул. ім.В.Сосюри, 81;93106;ukrposhta;Ukrposhta;0
+50093120;true; просп. Перемоги, 127;93120;ukrposhta;Ukrposhta;0
+50093404;true;бульв. Дружби Народів, 32;93404;ukrposhta;Ukrposhta;0
+50093500;true; вул. Центральна,  23а;93500;ukrposhta;Ukrposhta;0
+50093600;true; кв-л Молодіжний,  15А;93600;ukrposhta;Ukrposhta;0
+50500000;true;вул. Соборна, 59;50500000;ukrposhta;satua;0
+50700000;true;вул. Кривий Вал, 19;50700000;ukrposhta;satua;0
+51200000;true;просп. Дмитра Яворницького, 62;51200000;ukrposhta;satua;0
+51400000;true;вул. Жовтнева, 22;51400000;ukrposhta;satua;0
+51800000;true;вул.  Вітрука, 1;51800000;ukrposhta;satua;0
+52100000;true;пл. Поштова, 4;52100000;ukrposhta;satua;0
+52300000;true;пр. Соборний, 133;52300000;ukrposhta;satua;0
+52600000;true;вул. Незалежності, 6;52600000;ukrposhta;satua;0
+53220000;true;пр-т. П. Тичини, 6;53220000;ukrposhta;satua;0
+53500000;true;вул. Гоголя, 72;53500000;ukrposhta;satua;0
+54400000;true;вул. Вілєсова, 3;54400000;ukrposhta;satua;0
+54600000;true;вул. Словацького, 1;54600000;ukrposhta;satua;0
+54800000;true;вул. Новозаводська, 1;54800000;ukrposhta;satua;0
+55100000;true;вул. Садова, 10;55100000;ukrposhta;satua;0
+55300000;true;вул.1100-річчя Полтави, 2;55300000;ukrposhta;satua;0
+55600000;true;вул. В. Чорновола, 1;55600000;ukrposhta;satua;0
+55900000;true;пл. Привокзальна, 5;55900000;ukrposhta;satua;0
+56100000;true;вул. В. Чорновола, 1;56100000;ukrposhta;satua;0
+56300000;true;майдан Привокзальний, 2;56300000;ukrposhta;satua;0
+56500000;true;пр-т. Ушакова, 41;56500000;ukrposhta;satua;0
+56800000;true;вул. Проскурівська, 90;56800000;ukrposhta;satua;0
+57100000;true;вул. Б. Вишневецького, 34;57100000;ukrposhta;satua;0
+57300000;true;вул. Поштова, 6;57300000;ukrposhta;satua;0
+57400000;true;Проспект Миру, 28;57400000;ukrposhta;satua;0
+57400001;true;вул. Текстильників, 16;57400001;ukrposhta;satua;0
+57400002;true;вул. Текстильників, 16;57400002;ukrposhta;satua;0
+57400003;true;вул. Гагаріна, 4;57400003;ukrposhta;satua;0
+57400004;true;вул. Текстильників, 16;57400004;ukrposhta;satua;0
+57400005;true;вул. Чернігівська, 32;57400005;ukrposhta;satua;0
+57400006;true;вул. Незалежності, 11;57400006;ukrposhta;satua;0
+57400007;true;вул. Шевченка, 108;57400007;ukrposhta;satua;0
+57400008;true;вул. Михайлівська, 40;57400008;ukrposhta;satua;0
+57400009;true;вул. Центральна, 28;57400009;ukrposhta;satua;0
+57400010;true;вул. Куліша, 100;57400010;ukrposhta;satua;0
+57400011;true;вул. Всіхсвятська, 8;57400011;ukrposhta;satua;0
+58000000;true;вул. Хрещатик, 22;58000000;ukrposhta;satua;0
+80000011;true;Київ, Київ;80000011;emitent;satua;0
+123123123;true;Амосова;123123123;admin;123123123;4,0014E+11
+167000113;true;Червонозаводська, 7;4176;parfumsDSD;parfumsDSD;0
+167000114;true;Червонозаводська, 7;4176;parfumsDSD;parfumsDSD;0
+167000115;true;Червонозаводська, 7;4176;parfumsDSD;parfumsDSD;0
+167000116;true;Червонозаводська, 7;4176;parfumsDSD;parfumsDSD;0
+167000117;true;Червонозаводська, 7;4176;parfumsDSD;parfumsDSD;0
+358612000;true;Київ, Київ;358612000;ksmpayment;satua;0
+574000011;true;вул. Текстильників, 16;574000011;ukrposhta;satua;0
+574000021;true;вул. Текстильників, 16;574000021;ukrposhta;satua;0
+574000031;true;вул. Гагаріна, 4;574000031;ukrposhta;satua;0
+574000041;true;вул. Текстильників, 16;574000041;ukrposhta;satua;0
+574000051;true;вул. Чернігівська, 32;574000051;ukrposhta;satua;0
+574000061;true;вул. Незалежності, 11;574000061;ukrposhta;satua;0
+574000071;true;вул. Шевченка, 108;574000071;ukrposhta;satua;0
+574000081;true;вул. Михайлівська, 40;574000081;ukrposhta;satua;0
+574000091;true;вул. Центральна, 28;574000091;ukrposhta;satua;0
+574000101;true;вул. Куліша, 100;574000101;ukrposhta;satua;0
+574000111;true;вул. Всіхсвятська, 8;574000111;ukrposhta;satua;0
+1111000111;true;Шевченко;1111000111;admin;satua;0
+1111000112;true;Шевченко 1;1111000112;admin;satua;0
+1111000113;true;Шевченко;1111000113;admin;satua;0

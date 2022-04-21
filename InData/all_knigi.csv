@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021738</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950471</R0307G1S>
+<R0401G1S>Відділення №1890128</R0401G1S>
+<R0402G1S>25006, Кіровоградська обл., м.Кропивницький, Подільський р-н., вул.Велика Перспективна, 25/34</R0402G1S>
+<R0403G1>3510136600</R0403G1>
+<R0404G1S>15802207</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256677</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021749</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950482</R0307G1S>
+<R0401G1S>Відділення №1890129</R0401G1S>
+<R0402G1S>93400, Луганська обл., м.Сєвєродонецьк, проспект Гвардійський, 27</R0402G1S>
+<R0403G1>4412900000</R0403G1>
+<R0404G1S>15802208</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256678</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021750</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950483</R0307G1S>
+<R0401G1S>Відділення №1890130</R0401G1S>
+<R0402G1S>61166, Харківська обл., м.Харків, Шевченківський р-н., проспект  Науки, 17</R0402G1S>
+<R0403G1>6310136300</R0403G1>
+<R0404G1S>15802209</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256626</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021751</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950484</R0307G1S>
+<R0401G1S>Відділення №1890131</R0401G1S>
+<R0402G1S>61144, Харківська обл., м.Харків, Київський р-н., вул.Академіка Павлова, 160</R0402G1S>
+<R0403G1>6310136600</R0403G1>
+<R0404G1S>15802210</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256627</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021752</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950485</R0307G1S>
+<R0401G1S>Відділення №1890132</R0401G1S>
+<R0402G1S>61064, Харківська обл., м.Харків, Новобаварський р-н., провулок Расторгуївський, 2</R0402G1S>
+<R0403G1>6310137900</R0403G1>
+<R0404G1S>15802211</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256628</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021753</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950486</R0307G1S>
+<R0401G1S>Відділення №1890133</R0401G1S>
+<R0402G1S>51400, Дніпропетровська обл., м.Павлоград, вул.Горького, 166</R0402G1S>
+<R0403G1>1212400000</R0403G1>
+<R0404G1S>15802212</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256629</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021754</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950487</R0307G1S>
+<R0401G1S>Відділення №1890134</R0401G1S>
+<R0402G1S>84511, Донецька обл., м.Бахмут, вул.Миру, 53</R0402G1S>
+<R0403G1>1410300000</R0403G1>
+<R0404G1S>15802213</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256630</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021855</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950589</R0307G1S>
+<R0401G1S>Відділення №1890135</R0401G1S>
+<R0402G1S>85200, Донецька обл., м.Торецьк, вул.Дружби, 30-В</R0402G1S>
+<R0403G1>1411200000</R0403G1>
+<R0404G1S>15802214</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256631</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021856</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950590</R0307G1S>
+<R0401G1S>Відділення №1890136</R0401G1S>
+<R0402G1S>69000, Запорізька обл., м.Запоріжжя, Олександрівський р-н., проспект Соборний, 42, літ. А5, А1, А2</R0402G1S>
+<R0403G1>2310136300</R0403G1>
+<R0404G1S>15802215</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256632</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021857</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950591</R0307G1S>
+<R0401G1S>Відділення №1890137</R0401G1S>
+<R0402G1S>65018, Одеська обл., м.Одеса, Приморський р-н.,  провулок Семафорний, 4-Е</R0402G1S>
+<R0403G1>5110137500</R0403G1>
+<R0404G1S>15802216</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256633</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021858</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950592</R0307G1S>
+<R0401G1S>Відділення №1890138</R0401G1S>
+<R0402G1S>02105, м.Київ, Дніпровський р-н., проспект Соборності, 2/1-А</R0402G1S>
+<R0403G1>8036600000</R0403G1>
+<R0404G1S>15802217</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256634</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021859</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950593</R0307G1S>
+<R0401G1S>Відділення №1890139</R0401G1S>
+<R0402G1S>68303, Одеська обл., Кілійський р-н., м.Кілія, вул.Торгова, 22</R0402G1S>
+<R0403G1>5122310100</R0403G1>
+<R0404G1S>15802218</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256635</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021860</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950594</R0307G1S>
+<R0401G1S>Відділення №1890140</R0401G1S>
+<R0402G1S>71708, Запорізька обл., м.Токмак, вул.Гоголя, 50</R0402G1S>
+<R0403G1>2311000000</R0403G1>
+<R0404G1S>15802219</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256636</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021861</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950595</R0307G1S>
+<R0401G1S>Відділення №1890141</R0401G1S>
+<R0402G1S>84122, Донецька обл., м.Слов`янськ, вул.Університетська, 45</R0402G1S>
+<R0403G1>1414100000</R0403G1>
+<R0404G1S>15802220</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256637</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021862</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950596</R0307G1S>
+<R0401G1S>Відділення №1890142</R0401G1S>
+<R0402G1S>41400, Сумська обл., м.Глухів, вул.Києво-Московська, 32</R0402G1S>
+<R0403G1>5910300000</R0403G1>
+<R0404G1S>15802221</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256638</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021863</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950597</R0307G1S>
+<R0401G1S>Відділення №1890143</R0401G1S>
+<R0402G1S>42000, Сумська обл., м.Ромни, вул.Соборна, 14</R0402G1S>
+<R0403G1>5910700000</R0403G1>
+<R0404G1S>15802222</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256639</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021864</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950598</R0307G1S>
+<R0401G1S>Відділення №1890144</R0401G1S>
+<R0402G1S>37200, Полтавська обл., Лохвицький р-н., м.Лохвиця, вул.Героїв України, 26</R0402G1S>
+<R0403G1>5322610100</R0403G1>
+<R0404G1S>15802223</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256640</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021865</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950599</R0307G1S>
+<R0401G1S>Відділення №1890145</R0401G1S>
+<R0402G1S>09108, Київська обл., м.Біла Церква, вул.Леваневського, 59, приміщення 200</R0402G1S>
+<R0403G1>3210300000</R0403G1>
+<R0404G1S>15802224</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256641</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021866</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950600</R0307G1S>
+<R0401G1S>Відділення №1890146</R0401G1S>
+<R0402G1S>08154, Київська обл., Києво-Святошинський р-н., м.Боярка, вул.Хрещатик, 49-Б</R0402G1S>
+<R0403G1>3222410300</R0403G1>
+<R0404G1S>15802225</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256642</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021891</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950625</R0307G1S>
+<R0401G1S>Відділення №1890147</R0401G1S>
+<R0402G1S>08500, Київська обл., м.Фастів, вул.Соборна, 39</R0402G1S>
+<R0403G1>3211200000</R0403G1>
+<R0404G1S>15802226</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256643</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021892</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950626</R0307G1S>
+<R0401G1S>Відділення №1890148</R0401G1S>
+<R0402G1S>45008, Волинська обл., м.Ковель, вул.Незалежності, 112/4</R0402G1S>
+<R0403G1>710400000</R0403G1>
+<R0404G1S>15802227</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256644</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021893</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950627</R0307G1S>
+<R0401G1S>Відділення №1890149</R0401G1S>
+<R0402G1S>34503, Рівненська обл., Сарненський р-н., м.Сарни, вул.Фідарова, 4</R0402G1S>
+<R0403G1>5625410100</R0403G1>
+<R0404G1S>15802228</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256645</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021894</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950628</R0307G1S>
+<R0401G1S>Відділення №1890150</R0401G1S>
+<R0402G1S>58029, Чернівецька обл., м.Чернівці, Шевченківський р-н., проспект Незалежності, 113</R0402G1S>
+<R0403G1>7310100000</R0403G1>
+<R0404G1S>15802229</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256646</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021895</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950629</R0307G1S>
+<R0401G1S>Відділення №1890151</R0401G1S>
+<R0402G1S>49038, Дніпропетровська обл., м.Дніпро, Центральний р-н.,  площа Вокзальна, 13</R0402G1S>
+<R0403G1>1210137500</R0403G1>
+<R0404G1S>15802230</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256647</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311302.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>113</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>242</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>8</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>29082019</D_FILL>
+        <SOFTWARE>CABINET</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HKORO>1</HKORO>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<R0301G1S></R0301G1S>
+<R0302G1>420</R0302G1>
+<R0302G1S>ЕКСЕЛЛІО FP-700</R0302G1S>
+<R0303G1S>КС00021896</R0303G1S>
+<R0304G1>1014</R0304G1>
+<R0304G1S>3.00 UA</R0304G1S>
+<R0307G1S>950630</R0307G1S>
+<R0401G1S>Відділення №1890152</R0401G1S>
+<R0402G1S>69104, Запорізька обл., м.Запоріжжя, Комунарський р-н.,  вул.Північнокільцева, 10-А</R0402G1S>
+<R0403G1>2310136700</R0403G1>
+<R0404G1S>15802231</R0404G1S>
+<R0501G1>832</R0501G1>
+<R0501G1S>ГУ ДПС У ЧЕРНІГІВСЬКІЙ ОБЛАСТІ</R0501G1S>
+<R0601G1S>р</R0601G1S>
+<R0601G2S>1</R0601G2S>
+<R0602G1S>ЕЕ256648</R0602G1S>
+<R0603G1>40</R0603G1>
+<M01>1</M01>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>10122020</HFILL>
+<HZ>1</HZ>
+    <HZM>7</HZM>
+    <HMONTH>7</HMONTH>
+    <HZY>2019</HZY>
+  </DECLARBODY>
+</DECLAR> 
+

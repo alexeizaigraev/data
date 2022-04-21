@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311402.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>114</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>12</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>9</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>04092019</D_FILL>
+        <SOFTWARE>CABINET 0.4.1</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HMN>1</HMN>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<T3RXXXXG1S ROWNUM="1">Відділення № 1010130</T3RXXXXG1S>
+<T3RXXXXG2 ROWNUM="1">24400</T3RXXXXG2>
+<T3RXXXXG3S ROWNUM="1">Вінницька</T3RXXXXG3S>
+<T3RXXXXG4S ROWNUM="1">Бершадський</T3RXXXXG4S>
+<T3RXXXXG5S ROWNUM="1">Бершадь</T3RXXXXG5S>
+<T3RXXXXG6S ROWNUM="1">Юрія Коваленка</T3RXXXXG6S>
+<T3RXXXXG7S ROWNUM="1">19</T3RXXXXG7S>
+<T3RXXXXG8S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG9S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG10S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG11 ROWNUM="1">0520410100</T3RXXXXG11>
+<T3RXXXXG12S ROWNUM="1">15800673</T3RXXXXG12S>
+<T3RXXXXG13 ROWNUM="1">2657</T3RXXXXG13>
+<T3RXXXXG13S ROWNUM="1">ГУ ДФС У М.КИЄВІ (СВЯТОШИНСЬКИЙ Р-Н М.КИЄВА)</T3RXXXXG13S>
+<R0401G1>458</R0401G1>
+<R0401G1S>ЕКСЕЛЛІО FP-280</R0401G1S>
+<R0402G1S>КЛ00003755</R0402G1S>
+<R0403G1>1088</R0403G1>
+<R0403G1S>2.00 UA</R0403G1S>
+<R0404G1S>"ДАТЕКС" ООД</R0404G1S>
+<R0405G1D>10/28/2020</R0405G1D>
+<R0408G1S>000951798</R0408G1S>
+<R0501G1S>Торгівля. Громадське харчування. Сфера послуг.</R0501G1S>
+<R0601G1S>ЕЕ256655</R0601G1S>
+<R0602G1>40</R0602G1>
+<R0603G1S>ЕЕ145459</R0603G1S>
+<R0604G1>100</R0604G1>
+<R0701G1S>ТОВ "ПОС"</R0701G1S>
+<R0702G1S>39205324</R0702G1S>
+<R0703G1S>97</R0703G1S>
+<R0703G2D>01092016</R0703G2D>
+<R0703G3D>31122024</R0703G3D>
+<M04>1</M04>
+<R0901G1S>a.kulchitskiy@elpaysys.com</R0901G1S>
+<M05>1</M05>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>23012021</HFILL>
+</DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311402.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>114</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>12</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>9</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>04092019</D_FILL>
+        <SOFTWARE>CABINET 0.4.1</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HMN>1</HMN>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<T3RXXXXG1S ROWNUM="1">Відділення № 1330083</T3RXXXXG1S>
+<T3RXXXXG2 ROWNUM="1">08606</T3RXXXXG2>
+<T3RXXXXG3S ROWNUM="1">Київська</T3RXXXXG3S>
+<T3RXXXXG4S ROWNUM="1"></T3RXXXXG4S>
+<T3RXXXXG5S ROWNUM="1">Васильків</T3RXXXXG5S>
+<T3RXXXXG6S ROWNUM="1">Декабристів</T3RXXXXG6S>
+<T3RXXXXG7S ROWNUM="1">151, корпус 3</T3RXXXXG7S>
+<T3RXXXXG8S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG9S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG10S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG11 ROWNUM="1">3210700000</T3RXXXXG11>
+<T3RXXXXG12S ROWNUM="1">15801391</T3RXXXXG12S>
+<T3RXXXXG13 ROWNUM="1">2657</T3RXXXXG13>
+<T3RXXXXG13S ROWNUM="1">ГУ ДФС У М.КИЄВІ (СВЯТОШИНСЬКИЙ Р-Н М.КИЄВА)</T3RXXXXG13S>
+<R0401G1>458</R0401G1>
+<R0401G1S>ЕКСЕЛЛІО FP-700</R0401G1S>
+<R0402G1S>КС00001412</R0402G1S>
+<R0403G1>1088</R0403G1>
+<R0403G1S>3.00 UA</R0403G1S>
+<R0404G1S>"ДАТЕКС" ООД</R0404G1S>
+<R0405G1D>6/26/2015</R0405G1D>
+<R0408G1S>000687626</R0408G1S>
+<R0501G1S>Торгівля. Громадське харчування. Сфера послуг.</R0501G1S>
+<R0601G1S>ЕГ966055</R0601G1S>
+<R0602G1>40</R0602G1>
+<R0603G1S>ЕА180752</R0603G1S>
+<R0604G1>100</R0604G1>
+<R0701G1S>ТОВ "ПОС"</R0701G1S>
+<R0702G1S>39205324</R0702G1S>
+<R0703G1S>97</R0703G1S>
+<R0703G2D>01092016</R0703G2D>
+<R0703G3D>31122024</R0703G3D>
+<M04>1</M04>
+<R0901G1S>a.kulchitskiy@elpaysys.com</R0901G1S>
+<M05>1</M05>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>23012021</HFILL>
+</DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311402.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>114</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>12</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>9</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>04092019</D_FILL>
+        <SOFTWARE>CABINET 0.4.1</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HMN>1</HMN>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<T3RXXXXG1S ROWNUM="1">Відділення № 1890209</T3RXXXXG1S>
+<T3RXXXXG2 ROWNUM="1">42001</T3RXXXXG2>
+<T3RXXXXG3S ROWNUM="1"></T3RXXXXG3S>
+<T3RXXXXG4S ROWNUM="1"></T3RXXXXG4S>
+<T3RXXXXG5S ROWNUM="1">Київ</T3RXXXXG5S>
+<T3RXXXXG6S ROWNUM="1">Юрія Іллєнка</T3RXXXXG6S>
+<T3RXXXXG7S ROWNUM="1">1–Ц</T3RXXXXG7S>
+<T3RXXXXG8S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG9S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG10S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG11 ROWNUM="1">8039100000</T3RXXXXG11>
+<T3RXXXXG12S ROWNUM="1">15802294</T3RXXXXG12S>
+<T3RXXXXG13 ROWNUM="1">2657</T3RXXXXG13>
+<T3RXXXXG13S ROWNUM="1">ГУ ДФС У М.КИЄВІ (СВЯТОШИНСЬКИЙ Р-Н М.КИЄВА)</T3RXXXXG13S>
+<R0401G1>458</R0401G1>
+<R0401G1S>ЕКСЕЛЛІО FP-700</R0401G1S>
+<R0402G1S>КС00023037</R0402G1S>
+<R0403G1>1088</R0403G1>
+<R0403G1S>3.00 UA</R0403G1S>
+<R0404G1S>"ДАТЕКС" ООД</R0404G1S>
+<R0405G1D>1/11/2021</R0405G1D>
+<R0408G1S>000965180</R0408G1S>
+<R0501G1S>Торгівля. Громадське харчування. Сфера послуг.</R0501G1S>
+<R0601G1S>ЕЕ256137</R0601G1S>
+<R0602G1>40</R0602G1>
+<R0603G1S>ЕЕ145436</R0603G1S>
+<R0604G1>100</R0604G1>
+<R0701G1S>ТОВ "ПОС"</R0701G1S>
+<R0702G1S>39205324</R0702G1S>
+<R0703G1S>97</R0703G1S>
+<R0703G2D>01092016</R0703G2D>
+<R0703G3D>31122024</R0703G3D>
+<M04>1</M04>
+<R0901G1S>a.kulchitskiy@elpaysys.com</R0901G1S>
+<M05>1</M05>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>23012021</HFILL>
+</DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311402.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>114</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>12</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>9</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>04092019</D_FILL>
+        <SOFTWARE>CABINET 0.4.1</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HMN>1</HMN>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<T3RXXXXG1S ROWNUM="1">Відділення № 1890210</T3RXXXXG1S>
+<T3RXXXXG2 ROWNUM="1">74900</T3RXXXXG2>
+<T3RXXXXG3S ROWNUM="1">Херсонська</T3RXXXXG3S>
+<T3RXXXXG4S ROWNUM="1"></T3RXXXXG4S>
+<T3RXXXXG5S ROWNUM="1">Нова Каховка</T3RXXXXG5S>
+<T3RXXXXG6S ROWNUM="1">Французька</T3RXXXXG6S>
+<T3RXXXXG7S ROWNUM="1">55</T3RXXXXG7S>
+<T3RXXXXG8S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG9S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG10S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG11 ROWNUM="1">6510700000</T3RXXXXG11>
+<T3RXXXXG12S ROWNUM="1">15802295</T3RXXXXG12S>
+<T3RXXXXG13 ROWNUM="1">2657</T3RXXXXG13>
+<T3RXXXXG13S ROWNUM="1">ГУ ДФС У М.КИЄВІ (СВЯТОШИНСЬКИЙ Р-Н М.КИЄВА)</T3RXXXXG13S>
+<R0401G1>458</R0401G1>
+<R0401G1S>ЕКСЕЛЛІО FP-700</R0401G1S>
+<R0402G1S>КС00023044</R0402G1S>
+<R0403G1>1088</R0403G1>
+<R0403G1S>3.00 UA</R0403G1S>
+<R0404G1S>"ДАТЕКС" ООД</R0404G1S>
+<R0405G1D>1/11/2021</R0405G1D>
+<R0408G1S>000965187</R0408G1S>
+<R0501G1S>Торгівля. Громадське харчування. Сфера послуг.</R0501G1S>
+<R0601G1S>ЕЕ256138</R0601G1S>
+<R0602G1>40</R0602G1>
+<R0603G1S>ЕЕ145437</R0603G1S>
+<R0604G1>100</R0604G1>
+<R0701G1S>ТОВ "ПОС"</R0701G1S>
+<R0702G1S>39205324</R0702G1S>
+<R0703G1S>97</R0703G1S>
+<R0703G2D>01092016</R0703G2D>
+<R0703G3D>31122024</R0703G3D>
+<M04>1</M04>
+<R0901G1S>a.kulchitskiy@elpaysys.com</R0901G1S>
+<M05>1</M05>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>23012021</HFILL>
+</DECLARBODY>
+</DECLAR> 
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<DECLAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="J1311402.xsd">
+    <DECLARHEAD>
+        <TIN>40243180</TIN>
+        <C_DOC>J13</C_DOC>
+        <C_DOC_SUB>114</C_DOC_SUB>
+        <C_DOC_VER>2</C_DOC_VER>
+        <C_DOC_TYPE>0</C_DOC_TYPE>
+        <C_DOC_CNT>12</C_DOC_CNT>
+        <C_REG>26</C_REG>
+        <C_RAJ>50</C_RAJ>
+        <PERIOD_MONTH>9</PERIOD_MONTH>
+        <PERIOD_TYPE>1</PERIOD_TYPE>
+        <PERIOD_YEAR>2019</PERIOD_YEAR>
+        <C_STI_ORIG>2650</C_STI_ORIG>
+        <C_DOC_STAN>1</C_DOC_STAN>
+        <LINKED_DOCS xsi:nil="true"/>
+        <D_FILL>04092019</D_FILL>
+        <SOFTWARE>CABINET 0.4.1</SOFTWARE>
+    </DECLARHEAD>
+  <DECLARBODY>
+<HMN>1</HMN>
+<HR>1</HR>
+<HKSTI>2650</HKSTI>
+<HSTI>ГОЛОВНЕ УПРАВЛІННЯ ДФС У М.КИЄВІ, ДПІ У ГОЛОСІЇВСЬКОМУ РАЙОНІ (ГОЛОСІЇВСЬКИЙ РАЙОН М.КИЄВА)</HSTI>
+<HNAME>ТОВАРИСТВО З ОБМЕЖЕНОЮ ВIДПОВIДАЛЬНIСТЮ "ЕЛЕКТРУМ ПЕЙМЕНТ СІСТЕМ"</HNAME>
+<HTIN>40243180</HTIN>
+<T3RXXXXG1S ROWNUM="1">Відділення № 1890212</T3RXXXXG1S>
+<T3RXXXXG2 ROWNUM="1">20701</T3RXXXXG2>
+<T3RXXXXG3S ROWNUM="1">Черкаська</T3RXXXXG3S>
+<T3RXXXXG4S ROWNUM="1"></T3RXXXXG4S>
+<T3RXXXXG5S ROWNUM="1">Сміла</T3RXXXXG5S>
+<T3RXXXXG6S ROWNUM="1">Соборна</T3RXXXXG6S>
+<T3RXXXXG7S ROWNUM="1">91-Б 4</T3RXXXXG7S>
+<T3RXXXXG8S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG9S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG10S ROWNUM="1" xsi:nil="true"/>
+<T3RXXXXG11 ROWNUM="1">7110500000</T3RXXXXG11>
+<T3RXXXXG12S ROWNUM="1">15802297</T3RXXXXG12S>
+<T3RXXXXG13 ROWNUM="1">2657</T3RXXXXG13>
+<T3RXXXXG13S ROWNUM="1">ГУ ДФС У М.КИЄВІ (СВЯТОШИНСЬКИЙ Р-Н М.КИЄВА)</T3RXXXXG13S>
+<R0401G1>458</R0401G1>
+<R0401G1S>ЕКСЕЛЛІО FP-700</R0401G1S>
+<R0402G1S>КС00023046</R0402G1S>
+<R0403G1>1088</R0403G1>
+<R0403G1S>3.00 UA</R0403G1S>
+<R0404G1S>"ДАТЕКС" ООД</R0404G1S>
+<R0405G1D>1/11/2021</R0405G1D>
+<R0408G1S>000965189</R0408G1S>
+<R0501G1S>Торгівля. Громадське харчування. Сфера послуг.</R0501G1S>
+<R0601G1S>ЕЕ256140</R0601G1S>
+<R0602G1>40</R0602G1>
+<R0603G1S>ЕЕ145439</R0603G1S>
+<R0604G1>100</R0604G1>
+<R0701G1S>ТОВ "ПОС"</R0701G1S>
+<R0702G1S>39205324</R0702G1S>
+<R0703G1S>97</R0703G1S>
+<R0703G2D>01092016</R0703G2D>
+<R0703G3D>31122024</R0703G3D>
+<M04>1</M04>
+<R0901G1S>a.kulchitskiy@elpaysys.com</R0901G1S>
+<M05>1</M05>
+<HKBOS>2903722436</HKBOS>
+<HBOS>ПОЖАРСЬКИЙ ВЯЧЕСЛАВ ЮХИМОВИЧ</HBOS>
+<HFILL>23012021</HFILL>
+</DECLARBODY>
+</DECLAR> 
+
